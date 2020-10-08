@@ -1,18 +1,18 @@
 # Site settings
-title: Alexis Cook
-description: 'Deep Learning Professional'
-url: 'https://alexisbcook.github.io'
+title: The Duck's Diarrhea
+description: 'my personal blog'
+description_2: 'cause it would be too mainstream to name it "The Duke Diary"'
+url: 'https://duken72.github.io/'
 baseurl: ''
-google_analytics: 'UA-83225772-1'
-disqus_shortname: 'alexisbcook-github-io'
+google_analytics: 'UA-180068391-1'
 
 author:
-  name: 'Alexis Cook'
-  email: alexis.cook@gmail.com
-  twitter_username: alexis_b_cook
-  facebook_username: alexis.cook
-  github_username:  alexisbcook
-  linkedin_username:  alexis-cook-a6127753
+  name: 'Duke Nguyen'
+  email: duke7295@gmail.com
+  facebook_username: dukehn
+  github_username: duken72
+  linkedin_username: huu-duc-nguyen-689798197
+  youtube_username: Duke7295
 
 defaults:
   -
