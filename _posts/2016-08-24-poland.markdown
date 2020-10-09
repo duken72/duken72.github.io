@@ -14,7 +14,7 @@ you guys can play this in the background while reading :3
 <iframe width="270" height="152" src="https://www.youtube.com/embed/q6wZhd8M848" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Aug 24th, 2016
+#### Aug 24th, 2016
 
 Short introduction, so I was asked to submit one story with around 200-600 words ..
 
@@ -35,7 +35,7 @@ The world out there is beautiful, not perfect, but interesting, no, exciting.
 All the fun is out there when you are sitting down here. If you really want to know, seriously if you really really want to see the world, let me tell you something
 
 
-## There are simply places that you just have to be, things that you just have to do BY YOURSELF.
+#### There are simply places that you just have to be, things that you just have to do BY YOURSELF.
 
 ![friends]({{ site.url }}/assets/poland/5.jpg)
 ![class_1]({{ site.url }}/assets/poland/2.JPG)
@@ -45,7 +45,7 @@ All the fun is out there when you are sitting down here. If you really want to k
 
 
 -------
-## Sept 28th, 2020
+#### Sept 28th, 2020
 
 Sooooooo .. i'm back to Warsaw today ..
 
