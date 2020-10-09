@@ -8,8 +8,7 @@ use_math: true
 
 Shah you F%$#ing bastard :3 this is for u!!
 
-<div style="max-width:720px; overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+<div style="max-width:1280px; overflow:hidden; padding-bottom:56.25%; position:relative;">
   <iframe width height =auto src="https://www.youtube.com/embed/ZwbJNzDGpjc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
-
