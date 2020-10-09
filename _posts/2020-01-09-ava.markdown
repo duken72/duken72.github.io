@@ -1,0 +1,7 @@
+---
+title:  "check ava"
+date:   2020-01-09 07:27:27
+categories: [art]
+tags: [drawing]
+---
+![Drawing]({{ site.url }}/assets/drawing/ava3.jpg)
