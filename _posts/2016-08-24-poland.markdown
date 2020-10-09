@@ -3,7 +3,6 @@ title:  "Duke Weird Story"
 date:   2016-08-24 07:27:27
 categories: [read and write]
 tags: [meh writing]
-use_math: true
 ---
 
 
@@ -13,8 +12,6 @@ reup ..
 
 you guys can play this in the background while reading :3
 <iframe width="270" height="152" src="https://www.youtube.com/embed/q6wZhd8M848" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 
 ## Aug 24th, 2016
