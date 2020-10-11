@@ -7,4 +7,4 @@ use_math: true
 ---
 
 
-![Drawing]({{ site.url }}/assets/drawing/IMG_1684.JPG)
+![Drawing]({{ site.url }}/assets/drawing/IMG_1684.jpg)
