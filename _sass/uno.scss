@@ -1119,14 +1119,14 @@ pre {
 		.footer__copyright a:hover {
 			color: #b9301c; }
 .newsletter-container {
-        max-width: 400px;
+        max-width: 270px;
         border-radius: 1em;
         display: flex;
         flex-direction: column;
         padding: 1em 0;
         background: #444;
         box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2);
-        margin-bottom: 2em;
+        margin-bottom: 0.9em;
 }
 .newsletter-container * {
         align-self: center;
@@ -1170,7 +1170,7 @@ pre {
         font-weight: 600;
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 270px) {
 	.newsletter-title {
             font-size: 1.4em;
         }
