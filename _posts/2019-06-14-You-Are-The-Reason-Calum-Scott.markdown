@@ -9,5 +9,5 @@ use_math: true
 Shah you F%$#ing bastard :3 this is for u!!
 
 <div style="padding-bottom:56.25%; position:relative; height:0;">
-  <iframe style="overflow:hidden; width:100%; height:auto" width="100%" height="100%" src="https://www.youtube.com/embed/ZwbJNzDGpjc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe style="overflow:hidden; width:100%; height:100%" width="100%" height="100%" src="https://www.youtube.com/embed/ZwbJNzDGpjc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
