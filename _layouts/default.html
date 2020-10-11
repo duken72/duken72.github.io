@@ -7,7 +7,15 @@
 
     <div class="content-wrapper">
       <div class="content-wrapper__inner">
-        {{ content }}        
+        {{ content }}
+        <div  id="fb-root"></div>
+        <script>(function(d, s, id) {
+            var  js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=343864666827805";
+            fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
         <div class="newsletter-container">
             <h4 class="newsletter-title">Subscribe</h4>
             <!-- <p class="newsletter-text"></p> -->
@@ -17,10 +25,11 @@
                 <input type="hidden" name="loc" value="en_US" />
                 <input class="newsletter-email" type="text" name="email" placeholder="name@example.com" />
                 <input class="newsletter-submit" type="submit" value="Subscribe" />
-            </form>          
+            </form>
         </div>
       </div>
-      {% include footer.html %}      
+      
+      {% include footer.html %}
     </div>
 
 <!-- load mathjax -->
