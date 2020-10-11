@@ -8,4 +8,4 @@ use_math: true
 
 Shah you F%$#ing bastard :3 this is for u!!
 
-<iframe style="overflow:hidden; width:100%; height:270px" src="https://www.youtube.com/embed/ZwbJNzDGpjc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="overflow:hidden; width:100vw; height:100vh" src="https://www.youtube.com/embed/ZwbJNzDGpjc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
