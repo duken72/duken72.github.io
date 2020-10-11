@@ -1119,7 +1119,7 @@ pre {
 		.footer__copyright a:hover {
 			color: #b9301c; }
 .newsletter-container {
-        max-width: 350px;
+        max-width: 420px;
         border-radius: 1em;
         display: flex;
         flex-direction: column;
@@ -1170,7 +1170,7 @@ pre {
         font-weight: 570;
 }
 
-@media screen and (min-width: 350px) {
+@media screen and (min-width: 420px) {
 	.newsletter-title {
             font-size: 1.4em;
         }
