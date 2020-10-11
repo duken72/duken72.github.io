@@ -35,9 +35,9 @@ plugins:
 comments:
   provider : "facebook"
   facebook:
-	appid : 343864666827805
-	num_posts : 7 # 5 (default)
-	colorscheme : " light" # "light" (default), "dark"
+    appid : 343864666827805
+    num_posts : 7 # 5 (default)
+    colorscheme : " light" # "light" (default), "dark"
 
 sass:
     sass_dir: _sass
