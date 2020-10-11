@@ -10,7 +10,7 @@ reup ..
 play this in the background while reading :3
 <iframe style="overflow:hidden; height:100% ;width:100%;" width="100%" height="100%" src="https://www.youtube.com/embed/q6wZhd8M848" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Aug 24th, 2016
+Aug 24th, 2016
 
 Short introduction, so I was asked to submit one story with around 200-600 words ..
 
