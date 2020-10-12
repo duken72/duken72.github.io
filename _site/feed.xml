@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Duck's Diarrhea</title>
+    <description>my personal blog</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 11 Oct 2020 23:56:34 +0200</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2020 23:56:34 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Không bằng 1 con..</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/drawing/IMG_9131.JPG&quot; alt=&quot;Drawing&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jan 2020 08:27:27 +0100</pubDate>
+        <link>http://localhost:4000/2020/dog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/dog/</guid>        
+        
+        <tag>drawing</tag>
+                
+        
+        <category>art</category>
+                
+      </item>
+    
+      <item>
+        <title>check ava</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/designing/ava3.jpg&quot; alt=&quot;Drawing&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jan 2020 08:27:27 +0100</pubDate>
+        <link>http://localhost:4000/2020/ava/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/ava/</guid>        
+        
+        <tag>drawing</tag>
+                
+        
+        <category>art</category>
+                
+      </item>
+    
+      <item>
+        <title>That New Brush</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/drawing/IMG_1684.jpg&quot; alt=&quot;Drawing&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Dec 2019 08:27:27 +0100</pubDate>
+        <link>http://localhost:4000/2019/The-New-Brush/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/The-New-Brush/</guid>        
+        
+        <tag>drawing</tag>
+                
+        
+        <category>art</category>
+                
+      </item>
+    
+      <item>
+        <title>You Are The Reason-Calum Scott</title>
+        <description>&lt;p&gt;Shah you F%$#ing bastard :3 this is for u!!&lt;/p&gt;
+
+&lt;iframe style=&quot;overflow:hidden; width:100%; height:360px&quot; src=&quot;https://www.youtube.com/embed/ZwbJNzDGpjc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 14 Jun 2019 09:27:27 +0200</pubDate>
+        <link>http://localhost:4000/2019/You-Are-The-Reason-Calum-Scott/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/You-Are-The-Reason-Calum-Scott/</guid>        
+        
+        <tag>piano</tag>
+                
+        
+        <category>art</category>
+                
+      </item>
+    
+      <item>
+        <title>Duke Weird Story</title>
+        <description>&lt;p&gt;reup .. play this in the background while reading :3&lt;/p&gt; &lt;iframe style=&quot;overflow:hidden; height:100% ;width:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/q6wZhd8M848&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h2 id=&quot;aug-24th-2016&quot;&gt;Aug 24th, 2016&lt;/h2&gt; &lt;p&gt;Short introduction, so I was asked to submit one story with around 200-600 words ..&lt;/p&gt; &lt;p&gt;dear, I have a fecking diary :3 it’s a long .. diary .. I wrote when I’m abroad: how excited I am the first day when I breathed...</description>
+        <pubDate>Wed, 24 Aug 2016 09:27:27 +0200</pubDate>
+        <link>http://localhost:4000/2016/poland/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/poland/</guid>        
+        
+        <tag>meh writing</tag>
+                
+        
+        <category>read and write</category>
+                
+      </item>
+    
+      <item>
+        <title>Spring time - Yiruma</title>
+        <description>&lt;p&gt;Xin lỗi tác giả vì đã làm hỏng tác phẩm ạ :3&lt;/p&gt;
+
+&lt;iframe style=&quot;overflow:hidden; height:360px ;width:100%;&quot; src=&quot;https://www.youtube.com/embed/UjvjstZdR4Q&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 27 May 2016 09:27:27 +0200</pubDate>
+        <link>http://localhost:4000/2016/Spring-Time-Yiruma/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/Spring-Time-Yiruma/</guid>        
+        
+        <tag>piano</tag>
+                
+        
+        <category>art</category>
+                
+      </item>
+    
+  </channel>
+</rss>
