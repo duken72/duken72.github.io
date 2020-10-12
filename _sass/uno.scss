@@ -1042,12 +1042,12 @@ pre {
 .author,
 .tags {
 	font-size: .8em;
-	color: #c7c7c7; }
+	color: #777777; }
 	.date a,
 	.time a,
 	.author a,
 	.tags a {
-		color: #666666; }
+		color: #777777; }
 		.date a:hover,
 		.time a:hover,
 		.author a:hover,
@@ -1057,13 +1057,13 @@ pre {
 .excerpt {
 	margin: 0;
 	font-size: .9em;
-	color: #999999; }
+	color: #777777; }
 
 .intro {
 	font-family: "Roboto Slab", serif;
 	font-size: 1.2em;
 	font-weight: lighter;
-	color: #999999; }
+	color: #777777; }
 
 .block-heading {
 	display: inline;
@@ -1107,12 +1107,12 @@ pre {
 	display: block;
 	padding: 2em 0 0 0;
 	border-top: 2px solid #dddddd;
-	font-size: .7em;
+	font-size: 1.4em;
 	color: #b3b3b3; }
 
 .footer__copyright {
 	display: block;
-	margin-bottom: .7em; }
+	margin-bottom: 2em; }
 	.footer__copyright a {
 		color: #a6a6a6;
 		text-decoration: underline; }
