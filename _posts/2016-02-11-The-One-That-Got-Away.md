@@ -9,7 +9,7 @@ tags: [piano]
 
 P/S: e gà, bài này ít lỗi nhất có thể nữa :v chưa kể tay hơi dị dạng, anyway...
 
-<iframe style="overflow:hidden; width:100%; height:360px" src="https://www.youtube.com/embed/GkUARSh77_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/GkUARSh77_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 P/S 2: đây là bài đầu tiên mình tập..

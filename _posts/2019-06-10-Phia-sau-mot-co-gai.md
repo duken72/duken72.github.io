@@ -13,4 +13,4 @@ về khả năng
 
 lẫn cách thể hiện cảm xúc cho bài hát
 
-<iframe style="overflow:hidden; width:100%; height:360px" src="https://www.youtube.com/embed/s28-H2pe58Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/s28-H2pe58Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
