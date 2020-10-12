@@ -1,9 +1,8 @@
 ---
-title:  "You Are The Reason - Calum Scott"
+title:  "You Are The Reason"
 date:   2019-06-14 07:27:27
 categories: [art]
 tags: [piano]
-use_math: true
 ---
 
 Shah you F%$#ing bastard :3 this is for u!!
