@@ -10,3 +10,5 @@
 ---
 ### Copyright and license
 It is under [the MIT license](/LICENSE).
+
+Thanks Mai Anh Sang for the technical advices :3
