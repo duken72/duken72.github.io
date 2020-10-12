@@ -1,5 +1,5 @@
 # jekyll-uno
----
+
 ### Install and Test
 0. Install Ruby and Rubygems through git bash
 1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
@@ -10,5 +10,5 @@
 ---
 ### Copyright and license
 It is under [the MIT license](/LICENSE).
-
+---
 Thanks Mai Anh Sang for the technical advices :3
