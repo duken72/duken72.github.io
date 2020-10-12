@@ -10,7 +10,6 @@ tags: [piano]
 <iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/-1h4CLDRQl0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > bài gì nghe Christmas nhể?
-
 > âm hưởng Giáng sinh mà
 
 ?? :)
