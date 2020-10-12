@@ -5,7 +5,7 @@ categories: [art]
 tags: [piano]
 ---
 
-#### Sep 2016 - Oct 2016
+## Sep 2016 - Oct 2016
 
 So let the light .. guide .. your way
 
