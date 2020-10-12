@@ -9,7 +9,7 @@ tags: [piano]
 
 có 1 sự cải thiện .. nhẹ .. sau 2 năm
 
-về khả năng
+về kỹ năng
 
 lẫn cách thể hiện cảm xúc cho bài hát
 
