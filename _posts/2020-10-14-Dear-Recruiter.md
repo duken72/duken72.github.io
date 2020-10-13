@@ -26,7 +26,13 @@ If you have more time, or curious, feel free to check other posts, hope you enjo
 If you like it, my posts, my stories, it would be great to share with other colleagues, feel free to do so!!
 
 Thank you for your time, for reading this.
+
+Feel free to reach out for me if needed!
+
 Wish you a great day!!
+
+***Best regards,***
+*Huu Duc Nguyen*
 
 --------------
 ##### *(Vietnamese version)*
