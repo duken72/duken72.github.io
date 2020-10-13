@@ -1,5 +1,5 @@
 ---
-title:  "Dear Recruiters VN"
+title:  "Dear VN Recruiters"
 date:   2020-10-14 07:27:27
 categories: [read and write]
 tags: [meh writing]
