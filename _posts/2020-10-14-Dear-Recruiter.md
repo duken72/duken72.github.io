@@ -7,7 +7,7 @@ tags: [meh writing]
 -------
 ##### *(tiếng Việt ở dưới)*
 -------
-
+##### ***Dear,***
 It would be a lie to say that this blog was created mainly for fun or sharing stuffs with my friends.
 
 **This is for you guys, from the very beginning.**
@@ -23,7 +23,7 @@ Mainly ***[this one](https://duken72.github.io/2020/Why-Robotics/)***  is about 
 
 I hope you have a good time here.
 If you have more time, or curious, feel free to check other posts, hope you enjoy them.
-If you like it, my posts, my stories, it would be great to share with other colleagues, feel free to do so!!
+If you like it, my posts, my stories, it would be great to subscribe, share with other colleagues, feel free to do so!!
 
 Thank you for your time, for reading this.
 Feel free to reach out for me if needed!
