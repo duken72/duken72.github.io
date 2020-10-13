@@ -12,8 +12,8 @@ btw.. I'll use .. speaking language for god sake ;)  it's a blog anyway, let's n
 -------
 so.. where should we even begin
 
-### let's rewind a bit..
-### once upon a time..
+##### let's rewind a bit..
+##### once upon a time..
 when i was young, as a kid, I feel.. kinda blessed .. to be born as a son of an engineer and a lecturer in computer science.
 
 I remember me having these science books for kids, then just running up-and-down the house, sitting on the terrace at noon, with the scorching heat from the sun.. okay that was a bit over-exaggerated, but it was hot sunny day, for a kid, okay.. anywho, with a magnifying glass, i was so excited burning all the dry leaves, and box.. no, boxes of matches
