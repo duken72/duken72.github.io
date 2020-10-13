@@ -21,9 +21,9 @@ My detail profile, CV, transcript, everything are available on LinkedIn. This bl
 
 Mainly this one is about why I choose the field.
 
-- I hope you have a good time here.
-- If you have more time, or curious, feel free to check other posts, hope you enjoy them.
-- If you like it, my posts, my stories, it would be great to share with other colleagues, feel free to do so!!
+I hope you have a good time here.
+If you have more time, or curious, feel free to check other posts, hope you enjoy them.
+If you like it, my posts, my stories, it would be great to share with other colleagues, feel free to do so!!
 
 Thank you for your time, for reading this.
 Wish you a great day!!
