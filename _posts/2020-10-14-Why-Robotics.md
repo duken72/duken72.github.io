@@ -27,13 +27,13 @@ Without a forehand warning, reality gradually, but.. unhesitantly  enlightens me
 
 -------
 #### On the other hand, **I like Art**
-***okay who doesn't  -.-***
+*okay who doesn't  -.-*
 
 to me, almost everything, that is artistic, aesthetic, appeals me immensely. I'd say that I enjoy so many fields of art, not just the basics like drawing, music, photography, dancing, but also architecture, cooking, writing, carving sculpture ..
 
 but I don't want to always be just one among the crowd.. a spectator, an audience from far distance.
 
-**I want to be the one making things**.. and yeah all the showing and bragging about them :P
+**I want to be the one MAKING things**.. and yeah all the showing and bragging about them :P
 
 Through all these times, coming out of blindsight, initially as a simple.. distraction.. from daily tensions, it brought me peaceful joy.
 
@@ -51,7 +51,7 @@ The.. love.. I have for art.. is not by social preference, actually against pare
 Regardless of the excuses, the more time and effort I spend, not only the better the outcomes, but also the greater the influence they have on me.
 
 This might sounds a bit stupid .. but uhm..
-#### Practicing piano teaches me to be more **patient** and **persevere**
+#### Practicing piano teaches me to be more **patient** and **perseverant**
 I always have to go from one hand to another, section by section. There were songs that I have to practice in months, half a year.. yet I finished them all.
 
 #### Origami teaches me to be extremely **detail-oriented**.
@@ -70,25 +70,25 @@ also drawing helps my imagination, 3D perception, but let's just skip that for n
 
 An engineer would be someone who keeps his feet on the ground, spends his/her day working in factory or office, dealing, operating with electrical, mechanical stuffs, coding, supervising, being stiff, but reliable, accountable..
 
-while an artist seems like someone who would let his mind on the clouds.. spontaneous, peculiar, sensitive, speak and hear in colour..
+While an artist seems like someone who would let his mind on the clouds.. spontaneous, peculiar, sensitive, speak and hear in colour..
 
 Well, despite that thin line of connection, I wish to choose not one, but both to pursue, as the intersection between the two is my forte, where geometry, physics, and of course, **ROBOTICS** lay.
 
 With everything I got from both sides, this field is where I could, believe and truly want to excel in.
 
-### _Iron Man’s suits are not made of paper and glue._
+#### _Iron Man’s suits are not made of paper and glue._
 
-What had been child’s toys, has became my topic for graduation thesis, and now, the focus of my higher study.
+What had been child’s toys, has became my topic for graduation thesis
 
-<iframe style="overflow:hidden; width:407px; height:auto" src="https://www.youtube.com/embed/cTyVofR3yck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="overflow:hidden; width:407px; height:228px" src="https://www.youtube.com/embed/cTyVofR3yck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-and soon, hopefully, for my future career!!
+Now, the focus of my higher study. And soon, hopefully, my future career path!!
 
-
+I strongly believe, **ROBOTICS**, along side **Reinforcement Learning** and **Computer Visions**, is the key to the future. Thus they are what I have been and going to focusing on.
 
 -------
 gotta say .. for you to reach this end ..
-either having some serious perseverance and determination
+either having some serious patience and determination
 or you're' having an absolutely lazy-ass unproductive day my friend, shame on you!!
 #### *still .. thanks for spending your time reading this!!*
 #### *Appreciate.. and respect!!*
