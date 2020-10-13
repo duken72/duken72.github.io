@@ -7,19 +7,19 @@ tags: [meh writing]
 -------
 #### This would be the part ..
 #### where I'd tell you meh long story
--------
-##### btw, I'll use .. speaking language for god sake :wink:
+##### btw.. I'll use .. speaking language for god sake ;)
 ##### it's a blog anyway, let's not be so dramatic
 -------
 
 so.. where should we even begin
 
-#### let's rewind a bit.. once upon a time..
+#### let's rewind a bit..
+#### once upon a time..
 when i was young, as a kid, I feel.. kinda blessed .. to be born as a son of an engineer and a lecturer in computer science.
 
 I remember me having science books for kid, then just running up-and-down the house, sitting on the terrace at noon, with the scorching heat from the sun.. okay that was a bit over-exaggerated, but it was hot sunny day, for a kid, okay.. anywho, with a magnifying glass, i was so excited burning all the dry leaves, and box.. no, boxes of matches
 
-gotta say, those days, i was not so much of an environment-friendly kid.. i enjoyed watching things being burned :blush:
+gotta say, those days, i was not so much of an environment-friendly kid.. i enjoyed watching things being burned :)
 
 A strong, yet.. naïve belief, which I used to have, that a kind of mathematics and physics blood running in my vein.. has long been the perfect justification for me, why all the principles and patterns of how the world works always fill my mind with wonders.. and that.. the whole world will soon in the grasp of my tiny hands.
 
@@ -31,31 +31,32 @@ Without a forehand warning, reality gradually, but.. unhesitantly  enlightens me
 -------
 
 #### On the other hand, I like Art
-
 to  me, almost everything, that is artistic, aesthetic, appeals me immensely. I'd say that I enjoy so many fields of art, not just the basics like drawing, music, photography, dancing, but also architecture, cooking, writing, carving sculpture ..
+> .. okay who doesn't  -.-
 
-> .. okay who doesn't :neutral_face:
+but.. I don't want to always be just one among the crowd.. a spectator, an audience of others work from far distance..
 
-but.. I don't want to always be just one among the crowd.. a spectator, an audience of others work from a far away distance..
-
-I also want to make, to create sth.. and yeah all the showing and bragging about them :stuck_out_tongue:
+I also want to be the one making, creating things.. and yeah all the showing and bragging about them :P
 
 that's why there were times I found myself spending days drawing stupid stuffs, folding origami. I used to have a 3-drawer cabinet sitting by my studying desk. One of the drawer was just full of my origami, and it was not like that piece of cake paper crane, no no no, that was child's play, mine was full with.. intricate works my dear friends, i'm talking about mammals, dinosaurs, dragons..
 
-but yeah then on a sunny bright day, who would expect his parents decided to throw them all away :cry:
+but yeah then on a sunny bright day, who would have expected his parents deciding to throw them all away :(
 
 At later stage, I still find myself drafting mini paper robot designs, folding, gluing, and even later, as I practice with the piano until my fingers are too numb to continue.
 
 ------
-okay.. so what is the point here man?? we are going a bit all over the place!!
+#### okay.. a bit all over the place!!
+#### so what is the point here??
 
-#### For the majority, it is not straight-forward to see much, if any, relevance between doing engineering and art
+#### For the majority
+#### it is not straight-forward to see.. much, if any
+#### relevance between doing engineering and doing art
 
 An engineer would be someone who keeps his feet on the ground, spends his/her day working in factory or office, dealing with electrical, mechanical stuffs, coding, supervising, operating ..
 
-while an artist would let his mind on the clouds.
+while an artist seems like someone who would let his mind on the clouds.. spontaneous, peculiar, ..
 
-Well, Despite that thin line of connection, I wish to choose not one, but both to pursue, as the intersection between the two is my forte, where geometry, physics, mechanical structure design, and of course, robotics lay. Through my time spending studying in these areas, it becomes crystal-clear that the ability to have a vivid imagination has started to become the key element which help me identifying my strengths, things that I could, believe and truly want to excel in.
+Well, despite that thin line of connection, I wish to choose not one, but both to pursue, as the intersection between the two is my forte, where geometry, physics, and of course, **ROBOTICS** lay. Through my time spending studying in these areas, it becomes crystal-clear that the ability to have a vivid imagination has started to become the key element which help me identifying my strengths, things that I could, believe and truly want to excel in.
 
 -------
 gotta say .. for you to reach this end ..
