@@ -23,18 +23,18 @@ A strong, yet.. naïve belief, which I used to have, that a kind of mathematics 
 
 well, with that in mind, addition to the surrounding assistance, I have stayed persistently curious and diligent when it comes to studying mathematics and science subjects.
 
-### However.. there is always a however
+#### **However.. there is always a however**
 Without a forehand warning, reality gradually, but.. unhesitantly  enlightens me with all the limitations, and of course, challenges, from not only within myself, but from the world that I used to view with my ingenuous eyes.
 
 -------
-### On the other hand, I like **Art**
+#### On the other hand, I like **Art**
 > .. okay who doesn't  -.-
 
 to me, almost everything, that is artistic, aesthetic, appeals me immensely. I'd say that I enjoy so many fields of art, not just the basics like drawing, music, photography, dancing, but also architecture, cooking, writing, carving sculpture ..
 
 but I don't want to always be just one among the crowd.. a spectator, an audience from far distance.
 
-##### I want to be the one making things.. and yeah all the showing and bragging about them :P
+***I want to be the one making things***.. and yeah all the showing and bragging about them :P
 
 Through all these times, coming out of blindsight, initially as a simple.. distraction.. from daily tensions, it brought me peaceful joy.
 
@@ -67,7 +67,7 @@ also drawing helps my imagination, 3D perception, but let's just skip that for n
   okay.. quite long already, and a bit all over the place!!
   so what is the point here??
 
-#### **For the majority, it is not straight-forward to see.. much, if any relevance between doing engineering and doing art**
+#### ***For the majority, it is not straight-forward to see.. much, if any relevance between doing engineering and doing art***
 
 An engineer would be someone who keeps his feet on the ground, spends his/her day working in factory or office, dealing, operating with electrical, mechanical stuffs, coding, supervising, being stiff, but reliable, accountable..
 
