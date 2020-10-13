@@ -52,13 +52,13 @@ The.. love.. I have for art.. is not by social preference, actually against pare
 Regardless of the excuses, the more time and effort I spend, not only the better the outcomes, but also the greater the influence they have on me.
 
 This might sounds a bit stupid .. but uhm..
-#### Practicing piano teaches me to be more patient and persevere
+#### Practicing piano teaches me to be more ***patient*** and ***persevere***
 I always have to go from one hand to another, section by section. There were songs that I have to practice in months, half a year.. yet I finished them all.
 
-#### Origami teaches me to be extremely detail-oriented.
+#### Origami teaches me to be extremely ***detail-oriented***.
 The mistakes you make on the earlier folds, they will keep stacking up to your shitty final results :)
 
-#### These traits, I always bring them to other disciplines.
+#### These ***traits***, I always bring them to other disciplines.
 it's just pretty much the same while you coding, debugging that you need to be patient, systematic, to pay attention to details..
 
 also drawing helps my imagination, 3D perception, but let's just skip that for now
@@ -84,5 +84,5 @@ Those old days are far behind, and Iron Man’s suits are not made of paper and 
 gotta say .. for you to reach this end ..
 either having some serious perseverance and determination
 or you're' having an absolutely lazy-ass unproductive day my friend, shame on you!!
-#### still .. thanks for spending your time reading this!!
-#### Appreciate.. and respect!!
+#### *still .. thanks for spending your time reading this!!*
+#### *Appreciate.. and respect!!*
