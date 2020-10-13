@@ -5,7 +5,6 @@ categories: [read and write]
 tags: [meh writing]
 ---
 -------
-### Dear,
 
 I really hope that you got here from my LinkedIn profile.
 If not, you can go there through the LinkedIn button in the menu.
