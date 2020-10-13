@@ -13,11 +13,10 @@ If not, you can always go there through the LinkedIn button on the Menu.
 
 It would be a lie to say that this blog was created mainly for fun or sharing stuffs with my friends.
 
-### This is for you guys, from the very beginning.
+#### This is for you guys, from the very beginning.
 My personality type is INFJ, I'm not the kind of people who extremely enjoy making brand new connections with others.
 
-##### Thus, for me to do this, you could obviously sense my determination.. and also a bit of desperation to find an internship, and later on, an open job position.
-
+#### Thus, for me to do this, you could obviously sense my determination.. and also a bit of desperation to find an internship, and later on, an open job position.
 My detail profile, CV, transcript, everything are available on LinkedIn. This blog is created with a hope for you guys to know me more in person.
 
 Mainly this one is about why I choose the field.
@@ -29,7 +28,6 @@ Mainly this one is about why I choose the field.
 Thank you for your time, for reading this.
 Wish you a great day!!
 
---------------
 --------------
 ##### *(Vietnamese version)*
 -------
