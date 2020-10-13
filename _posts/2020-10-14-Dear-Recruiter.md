@@ -1,5 +1,5 @@
 ---
-title:  "Dear Recruiters VN"
+title:  "Dear Recruiters"
 date:   2020-10-14 07:27:27
 categories: [read and write]
 tags: [meh writing]
@@ -25,8 +25,8 @@ My detail profile, CV, transcript, everything are available on LinkedIn. This bl
 Mainly ***[this one](https://duken72.github.io/2020/Why-Robotics/)***  is about why I chose the field.
 
 I hope you have a good time here.
-If you have more time, or curious, feel free to check other posts, hope you enjoy them.
-If you like it, my posts, my stories, it would be great to subscribe, share with other colleagues, feel free to do so!!
+If you have more time, or perhaps out of curiosity, feel free to check other posts, hope you enjoy them.
+If you like them, my posts, my stories, it would be great to subscribe, share with other colleagues, feel free to do so!!
 
 Thank you for your time, for reading this.
 Feel free to reach out for me if needed!
@@ -39,4 +39,3 @@ Wish you a great day!!
 --------------
 ##### *(Vietnamese version)*
 Đi đến ***[link](https://duken72.github.io/2020/Dear-Recruiter-VN/)*** này để xem bản dịch.
--------
