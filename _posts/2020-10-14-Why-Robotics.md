@@ -12,9 +12,9 @@ btw.. I'll use .. speaking language for god sake ;)  it's a blog anyway, let's n
 -------
 so.. where should we even begin
 
-##### let's rewind a bit..
-##### once upon a time..
-when i was young, as a kid, I feel.. kinda blessed .. to be born as a son of an engineer and a lecturer in computer science.
+#### let's rewind a bit..
+#### once upon a time..
+when i was young, as a kid, I felt.. kinda blessed .. to be born as a son of an engineer and a lecturer in computer science.
 
 I remember me having these science books for kids, then just running up-and-down the house, sitting on the terrace at noon, with the scorching heat from the sun.. okay that was a bit over-exaggerated, but it was hot sunny day, for a kid, okay.. anywho, with a magnifying glass, i was so excited burning all the dry leaves, and box.. no, boxes of matches
 
@@ -26,6 +26,7 @@ well, with that in mind, addition to the surrounding assistance, I have stayed p
 
 ### However.. there is always a however
 Without a forehand warning, reality gradually, but.. unhesitantly  enlightens me with all the limitations, and of course, challenges, from not only within myself, but from the world that I used to view with my ingenuous eyes.
+
 -------
 ### On the other hand, I like **Art**
 > .. okay who doesn't  -.-
@@ -44,7 +45,7 @@ but yeah then on a sunny bright day, who would have expected his parents decidin
 
 At later stage, I still find myself drafting mini paper robot designs, folding, gluing, and even later, as I practice with the piano until my fingers are too numb to continue.
 
-![paper robots]({{ site.url }}/assets/robotics/paper_robots.jpg | width=140)
+![paper robots]({{ site.url }}/assets/robotics/paper_robots.jpg)
 
 The.. love.. I have for art.. is not by social preference, actually against parents hope, as you can see above.
 
