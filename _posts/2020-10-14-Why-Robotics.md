@@ -49,27 +49,28 @@ At later stage, I still find myself drafting mini paper robot designs, folding, 
 
 The.. love.. I have for art.. is not by social preference, actually against parents hope, as you can see above.
 
-### To me, it is pure, for the sake of art itself, and nothing more.
+#### To me, it is pure, for the sake of art itself, and nothing more.
 Regardless of the excuses, the more time and effort I spend, not only the better the outcomes, but also the greater the influence they have on me.
 >This might sounds a bit stupid .. but uhm..
 
-### playing piano teaches me to be more patient, to be perseverant
+#### playing piano teaches me to be more patient, to be perseverant
 I always have to go from simple stuffs, step by step, section by section.
 There were songs that I have to practice in months, half a year.. yet.. I finished them.
 
-### origami teaches me to be extremely detail-oriented.
+#### origami teaches me to be extremely detail-oriented.
 The mistakes you make on the earlier folds, they will keep stacking up to your shitty final results :)
 
-### these traits that I got, I could always bring to other disciplines.
+#### these traits that I got, I could always bring to other disciplines.
 it's just pretty much the same while you coding, debugging that you need to be patient, to pay attention to details..
 
 also drawing helps my imagination, 3D perception, but let's just skip that for now
+
 ------
   okay.. quite long already, and a bit all over the place!!
   so what is the point here??
 
-### For the majority, it is not straight-forward to see.. much, if any
-### relevance between doing engineering and doing art
+#### For the majority, it is not straight-forward to see.. much, if any
+#### relevance between doing engineering and doing art
 
 An engineer would be someone who keeps his feet on the ground, spends his/her day working in factory or office, dealing, operating with electrical, mechanical stuffs, coding, supervising, being stiff, but reliable, accountable..
 
@@ -78,10 +79,11 @@ while an artist seems like someone who would let his mind on the clouds.. sponta
 Well, despite that thin line of connection, I wish to choose not one, but both to pursue, as the intersection between the two is my forte, where geometry, physics, and of course, **ROBOTICS** lay.
 
 With everything I got from both sides, this field is where I could, believe and truly want to excel in.
+
 -------
 Those old days are far behind, and Iron Man’s suits are not made of paper and glue. What, initially is a child’s toy, are now a young student’s desire for feasible application in real life and the industry. With that preferences, my last-year work have been vigorously appealing, yet constantly arduous and unforgettable as I took the challenge alone to design and conduct 3D simulation for a robotics control system. The final simulation was completed only 2 weeks in prior to the final presentation, with countless times that I stumbling with things I never knew before, times that I feel like meeting dead-end only to pick myself up and find the way around. Continuing day after day till the end, in term of knowledge, I have learnt so much, but also gain more awareness of what I haven’t knew yet that could be learnt. Outside of knowledge, I have learnt to persevere, to pick myself up after every falls, and look for solution. And the biggest one: is learning to force yourself to do things that you do not like, just because they are necessary for you to pursue things that you love. Not all aspects of robotics are lucid and interesting, but there are more to like in the field, enough to struggle through all others.
--------
 
+-------
 gotta say .. for you to reach this end ..
 either having some serious perseverance and determination
 or you're' having an absolutely lazy-ass unproductive day my friend, shame on you!!
