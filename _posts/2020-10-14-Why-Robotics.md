@@ -5,18 +5,17 @@ categories: [read and write]
 tags: [meh writing]
 ---
 -------
-#### This would be the part ..
-#### where I'd tell you meh long story
-btw.. I'll use .. speaking language for god sake ;)  it's a blog anyway, let's not be so dramatic
+#### _This would be the part .. where I'd tell you meh long story_
+_I'll use .. speaking language for god sake ;)  it's a blog anyway, let's not be so dramatic_
 
 -------
 so.. where should we even begin
 
-#### let's rewind a bit..
-#### once upon a time..
+#### **let's rewind a bit..**
+#### **once upon a time..**
 when i was young, as a kid, I felt.. kinda blessed .. to be born as a son of an engineer and a lecturer in computer science.
 
-I remember me having these science books for kids, then just running up-and-down the house, sitting on the terrace at noon, with the scorching heat from the sun.. okay that was a bit over-exaggerated, but it was hot sunny day, for a kid, okay.. anywho, with a magnifying glass, i was so excited burning all the dry leaves, and box.. no, boxes of matches
+I remember me having these science books for kids, then just running up-and-down the house, sitting on the terrace at noon, with the scorching heat from the sun.. okay that was a bit over-exaggerated.. anywho, with a magnifying glass, i was so excited burning all the dry leaves, and box.. no, boxes of matches
 
 gotta say, those days, i was not so much of an environment-friendly kid.. i enjoyed watching things being burned :)
 
@@ -33,11 +32,11 @@ Without a forehand warning, reality gradually, but.. unhesitantly  enlightens me
 
 to me, almost everything, that is artistic, aesthetic, appeals me immensely. I'd say that I enjoy so many fields of art, not just the basics like drawing, music, photography, dancing, but also architecture, cooking, writing, carving sculpture ..
 
-but.. I don't want to always be just one among the crowd.. a spectator, an audience of others work from far distance..
+but I don't want to always be just one among the crowd.. a spectator, an audience from far distance.
 
-I also want to be the one making, creating things.. and yeah all the showing and bragging about them :P
+##### I want to be the one making things.. and yeah all the showing and bragging about them :P
 
-During all these times, coming out of blindsight, initially as a simple.. distraction.. from daily tensions, it brought me peaceful joy.
+Through all these times, coming out of blindsight, initially as a simple.. distraction.. from daily tensions, it brought me peaceful joy.
 
 There were times I found myself spending days drawing stupid stuffs, folding origami. I used to have a 3-drawer cabinet sitting by my studying desk. One of the drawer was just full of my origami, and it was not like that piece of cake paper crane, no no no, that was child's play, mine was full with.. intricate works my dear friends, i'm talking about mammals, dinosaurs, dragons..
 
@@ -49,19 +48,18 @@ At later stage, I still find myself drafting mini paper robot designs, folding, 
 
 The.. love.. I have for art.. is not by social preference, actually against parents hope, as you can see above.
 
-#### To me, it is pure, for the sake of art itself, and nothing more.
+### To me, it is purely for the sake of art itself, and nothing more.
 Regardless of the excuses, the more time and effort I spend, not only the better the outcomes, but also the greater the influence they have on me.
->This might sounds a bit stupid .. but uhm..
 
-#### playing piano teaches me to be more patient, to be perseverant
-I always have to go from simple stuffs, step by step, section by section.
-There were songs that I have to practice in months, half a year.. yet.. I finished them.
+This might sounds a bit stupid .. but uhm..
+#### Practicing piano teaches me to be more patient and persevere
+I always have to go from one hand to another, section by section. There were songs that I have to practice in months, half a year.. yet I finished them all.
 
-#### origami teaches me to be extremely detail-oriented.
+#### Origami teaches me to be extremely detail-oriented.
 The mistakes you make on the earlier folds, they will keep stacking up to your shitty final results :)
 
-#### these traits that I got, I could always bring to other disciplines.
-it's just pretty much the same while you coding, debugging that you need to be patient, to pay attention to details..
+#### These traits, I always bring them to other disciplines.
+it's just pretty much the same while you coding, debugging that you need to be patient, systematic, to pay attention to details..
 
 also drawing helps my imagination, 3D perception, but let's just skip that for now
 
@@ -69,8 +67,7 @@ also drawing helps my imagination, 3D perception, but let's just skip that for n
   okay.. quite long already, and a bit all over the place!!
   so what is the point here??
 
-#### For the majority, it is not straight-forward to see.. much, if any
-#### relevance between doing engineering and doing art
+#### **For the majority, it is not straight-forward to see.. much, if any relevance between doing engineering and doing art**
 
 An engineer would be someone who keeps his feet on the ground, spends his/her day working in factory or office, dealing, operating with electrical, mechanical stuffs, coding, supervising, being stiff, but reliable, accountable..
 
