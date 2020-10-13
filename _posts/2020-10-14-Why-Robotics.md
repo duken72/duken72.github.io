@@ -80,7 +80,7 @@ With everything I got from both sides, this field is where I could, believe and 
 
 What had been child’s toys, has became my topic for graduation thesis
 
-<iframe style="overflow:hidden; width:407px; height:214px" src="https://www.youtube.com/embed/cTyVofR3yck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="overflow:hidden; width:407px; height:217px" src="https://www.youtube.com/embed/cTyVofR3yck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now, the focus of my higher study. And soon, hopefully, my future career path!!
 
