@@ -30,9 +30,8 @@ Feel free to reach out for me if needed!
 
 Wish you a great day!!
 
-***Best regards,***
-
-*Huu Duc Nguyen*
+##### ***Best regards,***
+##### *Huu Duc Nguyen*
 
 --------------
 ##### *(Vietnamese version)*
