@@ -76,8 +76,15 @@ Well, despite that thin line of connection, I wish to choose not one, but both t
 
 With everything I got from both sides, this field is where I could, believe and truly want to excel in.
 
--------
-Those old days are far behind, and Iron Man’s suits are not made of paper and glue. What, initially is a child’s toy, are now a young student’s desire for feasible application in real life and the industry. With that preferences, my last-year work have been vigorously appealing, yet constantly arduous and unforgettable as I took the challenge alone to design and conduct 3D simulation for a robotics control system. The final simulation was completed only 2 weeks in prior to the final presentation, with countless times that I stumbling with things I never knew before, times that I feel like meeting dead-end only to pick myself up and find the way around. Continuing day after day till the end, in term of knowledge, I have learnt so much, but also gain more awareness of what I haven’t knew yet that could be learnt. Outside of knowledge, I have learnt to persevere, to pick myself up after every falls, and look for solution. And the biggest one: is learning to force yourself to do things that you do not like, just because they are necessary for you to pursue things that you love. Not all aspects of robotics are lucid and interesting, but there are more to like in the field, enough to struggle through all others.
+### _Iron Man’s suits are not made of paper and glue._
+
+What had been child’s toys, has became my topic for graduation thesis, and now, the focus of my higher study.
+
+<iframe style="overflow:hidden; width:407px; height:auto" src="https://www.youtube.com/embed/cTyVofR3yck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+and soon, hopefully, for my future career!!
+
+
 
 -------
 gotta say .. for you to reach this end ..
