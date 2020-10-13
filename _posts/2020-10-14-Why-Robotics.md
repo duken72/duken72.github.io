@@ -11,8 +11,7 @@ _I'll use .. speaking language for god sake ;)  it's a blog anyway, let's not be
 -------
 so.. where should we even begin
 
-#### **let's rewind a bit..**
-#### **once upon a time..**
+#### **let's rewind a bit.. once upon a time..**
 when i was young, as a kid, I felt.. kinda blessed .. to be born as a son of an engineer and a lecturer in computer science.
 
 I remember me having these science books for kids, then just running up-and-down the house, sitting on the terrace at noon, with the scorching heat from the sun.. okay that was a bit over-exaggerated.. anywho, with a magnifying glass, i was so excited burning all the dry leaves, and box.. no, boxes of matches
@@ -27,14 +26,14 @@ well, with that in mind, addition to the surrounding assistance, I have stayed p
 Without a forehand warning, reality gradually, but.. unhesitantly  enlightens me with all the limitations, and of course, challenges, from not only within myself, but from the world that I used to view with my ingenuous eyes.
 
 -------
-#### On the other hand, I like **Art**
-> .. okay who doesn't  -.-
+#### On the other hand, **I like Art**
+***okay who doesn't  -.-***
 
 to me, almost everything, that is artistic, aesthetic, appeals me immensely. I'd say that I enjoy so many fields of art, not just the basics like drawing, music, photography, dancing, but also architecture, cooking, writing, carving sculpture ..
 
 but I don't want to always be just one among the crowd.. a spectator, an audience from far distance.
 
-***I want to be the one making things***.. and yeah all the showing and bragging about them :P
+**I want to be the one making things**.. and yeah all the showing and bragging about them :P
 
 Through all these times, coming out of blindsight, initially as a simple.. distraction.. from daily tensions, it brought me peaceful joy.
 
@@ -48,17 +47,17 @@ At later stage, I still find myself drafting mini paper robot designs, folding, 
 
 The.. love.. I have for art.. is not by social preference, actually against parents hope, as you can see above.
 
-### To me, it is purely for the sake of art itself, and nothing more.
+**To me, it is purely for the sake of art itself, and nothing more.**
 Regardless of the excuses, the more time and effort I spend, not only the better the outcomes, but also the greater the influence they have on me.
 
 This might sounds a bit stupid .. but uhm..
-#### Practicing piano teaches me to be more ***patient*** and ***persevere***
+#### Practicing piano teaches me to be more **patient** and **persevere**
 I always have to go from one hand to another, section by section. There were songs that I have to practice in months, half a year.. yet I finished them all.
 
-#### Origami teaches me to be extremely ***detail-oriented***.
+#### Origami teaches me to be extremely **detail-oriented**.
 The mistakes you make on the earlier folds, they will keep stacking up to your shitty final results :)
 
-#### These ***traits***, I always bring them to other disciplines.
+#### These **traits**, I always bring them to other disciplines.
 it's just pretty much the same while you coding, debugging that you need to be patient, systematic, to pay attention to details..
 
 also drawing helps my imagination, 3D perception, but let's just skip that for now
@@ -67,7 +66,7 @@ also drawing helps my imagination, 3D perception, but let's just skip that for n
   okay.. quite long already, and a bit all over the place!!
   so what is the point here??
 
-#### ***For the majority, it is not straight-forward to see.. much, if any relevance between doing engineering and doing art***
+#### **For the majority, it is not straight-forward to see.. much, if any relevance between doing engineering and doing art**
 
 An engineer would be someone who keeps his feet on the ground, spends his/her day working in factory or office, dealing, operating with electrical, mechanical stuffs, coding, supervising, being stiff, but reliable, accountable..
 
