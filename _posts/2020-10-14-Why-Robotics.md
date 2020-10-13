@@ -5,10 +5,10 @@ categories: [read and write]
 tags: [meh writing]
 ---
 -------
-### This would be the part ..
-### where I'd tell you meh long story
-
+#### This would be the part ..
+#### where I'd tell you meh long story
 btw.. I'll use .. speaking language for god sake ;)  it's a blog anyway, let's not be so dramatic
+
 -------
 so.. where should we even begin
 
