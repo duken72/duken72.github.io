@@ -123,14 +123,18 @@ Thi thoảng .. bây giờ, đứng trước những công trình đẹp nhất,
 
 <iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/DuFHaVJpcr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Yeap!! This is ***The Song***!! Đây, đây mới là bài hát của mình.
+#### Yeap!! This is ***The Song!!*** Đây, đây mới là bài hát của mình.
 #### Từng dòng, từng câu, từng chữ!!
 
 mình biết .. mình rất may mắn, không phải ai cũng được đi, lại còn được đi nhiều, đó, đúng như trong bài hát
 > Another airplane, Another sunny place, ***I'm lucky, I know*** ..
 
 thế nên mình sẽ ko xl than vãn về chuyện đó :) cơ mà
-> ***I've had my run*** ..
+> ***I've had my run .. I wanna come home***
+
+> The words were cold and flat.
+And you deserve more, than that
+
 
 thực ra, chắc là nghe xong bài hát là mọi người hiểu hết cảm xúc của mình rồi
 
