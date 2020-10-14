@@ -154,6 +154,7 @@ Hai mục tiêu tiêu biểu nhất của mình hiện là VinFast và THACO. M�
 
 Kết thúc, mình phải nói là, mình rất biết ơn nếu bạn đọc được bài này, đọc hết đến đây, và còn vô cùng biết ơn hơn nữa nếu bạn có thể offer mình vị trí gì đó, hoặc chia sẻ tới những người có thể.
 
+À, và mình .. rất mong nếu bạn đọc được bài này, dù có thể offer mình gì hay không, mình vẫn rất muốn biết cảm nhận của bạn thế nào, dòng cảm xúc, suy nghĩ của bạn. Vì thực sự là mình cần và rất muốn cải thiện nó. Nên nếu đọc được email, inbox mình và chia sẻ nha .. PLEASEEEEE!!
 
 ##### ***Thân,***
 ##### *Hữu Đức Nguyễn*
