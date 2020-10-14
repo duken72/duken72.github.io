@@ -12,7 +12,7 @@ Bài viết này hoàn toàn khác với bài ở tiếng Anh.. đây không ph�
 
 Cái link.. cũng khá là confused.. khả năng là mọi người nghĩ thật sự đây chỉ là bản dịch, nên cũng không phải ai cũng ấn vào đâu.
 
-Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài tâm sự này.. khá là đặc biệt đó!! Well, đã đặc biệt, có duyên với nhau như vậy rồi thì cố đọc hết nha ;)
+Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài chia sẻ này.. khá là đặc biệt đó!! Well, đã đặc biệt, có duyên với nhau như vậy rồi thì cố đọc hết nha ;)
 
 ### *Chúng ta lại bắt đầu với một câu chuyện mới nào..*
 câu chuyện này.. có thể diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn nha!!
@@ -96,20 +96,20 @@ Suốt thời gian này, mình chưa bh, ***chưa bh một lần cảm thấy nh
 
 -------
 
-và rồi, 2019, mình đi du học
+và rồi 2019 .. mình đi du học
 #### **Aachen, Germany, 9/2019**
 {: .right-align}
 ![train]({{ site.url }}/assets/pictures/IMG_0228.PNG#center){:style="width:420px"}
 
 ![flight]({{ site.url }}/assets/pictures/IMG_0229.PNG#center){:style="width:420px"}
 
-ở đây mình vẫn đi, và .. còn dễ có thể đi nhiều nước, nhiều thành phố loanh quanh hơn, ở châu Âu mà .. những chuyến tàu .. những chuyến bay ..
+ở đây mình vẫn đi, và .. còn dễ có thể đi nhiều nước, nhiều thành phố loanh quanh hơn, ở châu Âu mà .. những chuyến tàu .. những chuyến bay .. đuổi theo ánh mặt trời ..
 
-mình vẫn thích đi, và những lúc .. cảm thấy cần phải đi, vì bản thân cần đi .. thật xa
+mình vẫn thích đi, và những lúc .. cảm thấy cần phải đi, vì bản thân cần đi .. thật xa .. mình vẫn xách túi lên tàu lên xe một mình và đi
 
-những chuyến đi trước .. ngày về được định trước, vé khứ hồi được mua cùng ngày với vé đi, và mình không có mấy vai trò trong việc quyết định chx đó, thậm chí .. phải nói là mình cũng không trả cho cái vé đó :)
+những chuyến đi trước .. ngày về được định trước, vé khứ hồi được mua cùng ngày với vé đi, và mình không có mấy vai trò trong việc quyết định chx đó, thậm chí .. phải nói là mình cũng không phải là người trả tiền cho cái vé đó :)
 
-lần này, vé đi về sẽ là do mình quyết, mình chọn ngày, và mình trả tiền
+lần này, vé đi ngày về sẽ là do mình quyết và trả tiền
 
 -------
 
@@ -117,20 +117,42 @@ những thứ mình của 2016 nói vẫn đúng, mình vẫn tin vào những �
 
 thế giới vẫn rất đẹp, cảnh vật, con người vẫn hoàn hảo theo cái cách mà nó chưa bao giờ hoàn thiện
 
+Thi thoảng .. bây giờ, đứng trước những công trình đẹp nhất, bên cạnh bạn bè mới, nắng rọi xuống quanh người như thể "you are the chosen one", chim hót, hoa nở rộ, giữa những tiếng đàn, tiếng cười .. thi thoảng .. trong đầu mình vẫn nảy lên câu hỏi ..
+
+***"Why the fuck .. am I here??"***
+
 <iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/DuFHaVJpcr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Yeap!! This is ***The Song***, đây mới là bài hát của mình. Đúng đến từng dòng, từng câu, từng chữ!!
+#### Yeap!! This is ***The Song***!! Đây, đây mới là bài hát của mình.
+#### Từng dòng, từng câu, từng chữ!!
 
-mình biết .. mình rất may mắn, đó, như trong bài hát
-> Another airplane
-..
-I'm lucky, I know ..
+mình biết .. mình rất may mắn, không phải ai cũng được đi, lại còn được đi nhiều, đó, đúng như trong bài hát
+> Another airplane, Another sunny place, ***I'm lucky, I know*** ..
 
-cơ mà
-> I've had my run ..
+thế nên mình sẽ ko xl than vãn về chuyện đó :) cơ mà
+> ***I've had my run*** ..
 
+thực ra, chắc là nghe xong bài hát là mọi người hiểu hết cảm xúc của mình rồi
 
+-------
 
+okay, thôi, dẫn dắt cảm xúc thế là đủ rồi.
+
+Có lẽ đây sẽ là một trong những cái **Plot Twist** lớn nhất của bạn ngày hôm nay, well, mong là vậy, không thì mình cũng hơi buồn.
+
+Tỉnh lại chút đi nha, xem lại tiêu đề của bài
+
+Bài này không phải là một bài tâm sự, không phải để chia sẻ cảm xúc, mình không tìm ai cảm thông cũng như thương xót, mình là động vật máu lạnh :) mình không cần những thứ đó.
+
+Tâm hồn bay đủ cao rồi, cố hạ chân xuống chạm mắt đất chút nha.
+
+Mình muốn về, nhưng không thể về nếu không có việc để làm được, lấy gì để tự lo cho bản thân và ..
+
+Mình học Robotics, và khá là focus vào Computer Visions, Reinforcement Learning, nếu muốn biết liệu mình chỉ là thằng xl, nói thì giỏi và éo làm đc gì, thì có thể check CV, Transcript .. của mình ở LinkedIn.
+
+Hai mục tiêu tiêu biểu nhất của mình hiện là VinFast và THACO. Mình tôn trọng tầm nhìn cũng như tham vọng của cả hai công ty.
+
+Kết thúc, mình phải nói là, mình rất biết ơn nếu bạn đọc được bài này, đọc hết đến đây, và còn vô cùng biết ơn hơn nữa nếu bạn có thể offer mình vị trí gì đó, hoặc chia sẻ tới những người có thể.
 
 
 ##### ***Thân,***
