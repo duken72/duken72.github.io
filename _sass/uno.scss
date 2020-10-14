@@ -1038,8 +1038,10 @@ pre {
 		border: none; }
 .right-align{
 	direction: rtl; }
-.image-center{
-	text-align: center; }
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
 .date,
 .time,
 .author,
