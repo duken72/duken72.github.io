@@ -12,15 +12,14 @@ Bài viết này hoàn toàn khác với bài ở tiếng Anh.. đây không ph�
 
 Cái link.. cũng khá là confused.. khả năng là mọi người nghĩ thật sự đây chỉ là bản dịch, nên cũng không phải ai cũng ấn vào đâu.
 
-Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài tâm sự này.. khá là đặc biệt đó!! Well, đã đặc biệt, có duyên với nhau như vậy rồi thì cố đọc nốt nha ;)
+Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài tâm sự này.. khá là đặc biệt đó!! Well, đã đặc biệt, có duyên với nhau như vậy rồi thì cố đọc hết nha ;)
 
-### Chúng ta lại bắt đầu với một câu chuyện nào..
-câu chuyện .. diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn!!
+### *Chúng ta lại bắt đầu với một câu chuyện mới nào..*
+câu chuyện này.. có thể diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn nha!!
 
-#### **29/6/2016**
+#### **29 tháng 6, 2016**
 {: .right-align}
-Lần đầu tiên, mình đi một chuyến thật xa ra nước ngoài.
-{: .right-align}
+Đó là lần đầu tiên, mình đi một chuyến thật xa ..
 
 Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, một cái sảnh éo khác gì quảng trường Ba Đình cmnl. Hình như phải mất tầm 20' j đó để mình đến được chỗ đợi tiếp theo.
 
