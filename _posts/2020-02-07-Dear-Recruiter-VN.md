@@ -17,13 +17,17 @@ Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có th�
 ### *Chúng ta lại bắt đầu với một câu chuyện mới nào..*
 câu chuyện này.. có thể diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn nha!!
 
-#### **29 tháng 6, 2016**
+#### **29/6/2016**
 {: .right-align}
 Đó là lần đầu tiên, mình đi một chuyến thật xa ..
 
 Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, một cái sảnh éo khác gì quảng trường Ba Đình cmnl. Phải mất tầm 20' j đó để mình đến được chỗ đợi tiếp theo.
 
-#### **30 tháng 6, 2016**
+![qatar airport]({{ site.url }}/assets/pictures/IMG_6054.JPG)
+{:style="width:420px"}
+
+
+#### **30/6/2016**
 {: .right-align}
 
 0h đêm, đừng 1 mình cạnh bến xe giữa lòng thành phố.
@@ -31,6 +35,8 @@ Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, m�
 trời tối .. lạnh .. gió thổi mạnh từng đợt
 
 đứng giữa những tòa nhà cao tầng .. nhưng ko một bóng người .. đèn đường vẫn nhấp nháy đổi màu ..
+
+![warsaw]({{ site.url }}/assets/pictures/IMG_6104.JPG){:style="width:420px"}
 
 mình đợi ở đó .. ngầng đầu lên ngắm mặt trăng
 
