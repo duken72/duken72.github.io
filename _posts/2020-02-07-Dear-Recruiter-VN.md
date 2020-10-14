@@ -56,7 +56,7 @@ Tua nhanh một tẹo nè
 
 #### **Berlin, Germany, 23/7/2016**
 {: .right-align}
-![Der Berliner Reichstag]({{ site.url }}/assets/pictures/IMG_6393.JPG#center){:style="width:420px"}
+![Der Berliner Reichstag]({{ site.url }}/assets/pictures/IMG_6393.jpg#center){:style="width:420px"}
 
 -------
 #### **Oslo, Norway, 8/8/2016**
@@ -68,7 +68,7 @@ Tua nhanh một tẹo nè
 -------
 #### **Bangalore & New Delhi, India, 3-4/2017**
 {: .right-align}
-![taj mahal]({{ site.url }}/assets/pictures/_DSC1733.JPG#center){:style="width:420px"}
+![taj mahal]({{ site.url }}/assets/pictures/_DSC1733.jpg#center){:style="width:420px"}
 
 ![mysore palace]({{ site.url }}/assets/pictures/_DSC1849.JPG#center){:style="width:420px"}
 
