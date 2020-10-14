@@ -83,23 +83,54 @@ Tua nhanh một tẹo nè
 ![japan]({{ site.url }}/assets/pictures/IMG_8053.jpg#center){:style="width:420px"}
 
 -------
-và đến năm vừa rồi, mình đi du học
-#### **Aachen, Germany, 9/2019**
-{: .right-align}
 
--------
-#### **Netherlands, 10/2019**
-{: .right-align}
-cái này hơi xaolol, vì mình qua đó đi chợ thôi :) cơ mà cứ để tạm đó nha!!
+mình rất thích việc .. dùng bài hát thay cho những lời muốn nói
 
--------
-#### **Leuven & Brussel, Belgium, 12/2019**
-{: .right-align}
--------
+chắc mọi người nghe bài "Đi để trờ về" rồi (***[link](https://www.youtube.com/watch?v=wnSNyE2hVu4&ab_channel=1989sEntertainment)***), mình nói tới bài này .. vì nó .. hoàn toàn ngược lại với cảm xúc của mình :)
 
 Suốt thời gian này, mình ***chưa bao giờ thấy mỏi chân***. Kể cả lần đầu đến Berlin, đi bộ 14km trong 9 tiếng.
 
 Suốt thời gian này, mình chưa bh, ***chưa bh một lần cảm thấy nhớ nhà***. Trước vẫn thi thoảng hay đùa với bạn bè là, đơn giản cái **"tòa nhà"** mình từng ở, nó chưa bh là **"nhà"** của mình.
+
+Điểm tương đồng duy nhất giữa bài hát của Soobin với những chuyến đi trên, là n ngắn :)
+
+-------
+
+và rồi, 2019, mình đi du học
+#### **Aachen, Germany, 9/2019**
+{: .right-align}
+![train]({{ site.url }}/assets/pictures/IMG_0228.pmg#center){:style="width:420px"}
+
+![flight]({{ site.url }}/assets/pictures/IMG_0229.png#center){:style="width:420px"}
+
+ở đây mình vẫn đi, và .. còn dễ có thể đi nhiều nước, nhiều thành phố loanh quanh hơn, ở châu Âu mà .. những chuyến tàu .. những chuyến bay ..
+
+mình vẫn thích đi, và những lúc .. cảm thấy cần phải đi, vì bản thân cần đi .. thật xa
+
+những chuyến đi trước .. ngày về được định trước, vé khứ hồi được mua cùng ngày với vé đi, và mình không có mấy vai trò trong việc quyết định chx đó, thậm chí .. phải nói là mình cũng không trả cho cái vé đó :)
+
+lần này, vé đi về sẽ là do mình quyết, mình chọn ngày, và mình trả tiền
+
+-------
+
+những thứ mình của 2016 nói vẫn đúng, mình vẫn tin vào những điều đấy
+
+thế giới vẫn rất đẹp, cảnh vật, con người vẫn hoàn hảo theo cái cách mà nó chưa bao giờ hoàn thiện
+
+<iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/DuFHaVJpcr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+yeap, this is the song, đây mới là bài hát của mình
+
+đúng đến từng dòng, từng câu, từng chữ!!
+
+mình biết .. mình rất may mắn, đó, như trong bài hát
+> Another airplane
+..
+I'm lucky, I know ..
+
+cơ mà
+> I've had my run ..
+
 
 
 
