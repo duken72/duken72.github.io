@@ -68,13 +68,14 @@ Tua nhanh một tẹo nè
 -------
 #### **Bangalore & New Delhi, India, 3-4/2017**
 {: .right-align}
-![taj mahal]({{ site.url }}/assets/pictures/_DSC1733.jpg#center){:style="width:420px"}
+![taj mahal]({{ site.url }}/assets/pictures/DSC1733.jpg#center){:style="width:420px"}
 
-![mysore palace]({{ site.url }}/assets/pictures/_DSC1849.JPG#center){:style="width:420px"}
+![mysore palace]({{ site.url }}/assets/pictures/DSC1849.JPG#center){:style="width:420px"}
 
 -------
 #### **Singapore, 18/9/2017**
 {: .right-align}
+![marina bay sands]({{ site.url }}/assets/pictures/DSC4300.jpg#center){:style="width:420px"}
 
 -------
 #### **Tokyo & Kagawa, Japan, 9-10/2018**
