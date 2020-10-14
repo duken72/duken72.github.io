@@ -8,7 +8,7 @@ tags: [meh writing]
 ##### *bản dịch tiếng Việt - Vietnamese version*: ***[link](https://duken72.github.io/2020/Dear-Recruiter-VN/)***
 -------
 ##### ***Dear,***
-#####
+#####  
 
 It would be a lie to say that this blog was created mainly for fun or sharing stuffs with my friends.
 

@@ -7,7 +7,6 @@ tags: [meh writing]
 
 -------
 ##### ***Hi,***
-#####
 
 Bài viết này hoàn toàn khác với bài ở tiếng Anh.. đây không phải bài dịch
 
