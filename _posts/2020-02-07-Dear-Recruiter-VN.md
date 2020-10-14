@@ -152,7 +152,7 @@ Tâm hồn bay đủ cao rồi, cố hạ chân xuống chạm mắt đất chú
 
 Mình muốn về, nhưng không thể về nếu không có việc để làm được, lấy gì để tự lo cho bản thân và ..
 
-Mình học Robotics, và khá là focus vào Computer Visions, Reinforcement Learning, nếu muốn biết liệu mình chỉ là thằng xl, nói thì giỏi và éo làm đc gì, thì có thể check CV, Transcript .. của mình ở LinkedIn.
+Mình học **Robotics**, và khá là focus vào **Computer Visions**, **Reinforcement Learning**, nếu muốn biết liệu mình chỉ là thằng xl, nói thì giỏi và éo làm đc gì, thì có thể check CV, Transcript .. của mình ở LinkedIn.
 
 Hai mục tiêu tiêu biểu nhất của mình hiện là VinFast và THACO. Mình tôn trọng tầm nhìn cũng như tham vọng của cả hai công ty.
 
