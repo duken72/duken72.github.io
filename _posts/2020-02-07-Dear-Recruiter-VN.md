@@ -29,14 +29,13 @@ Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, m�
 
 #### **30/6/2016**
 {: .right-align}
+12h đêm, 1 mình .. đứng cạnh bến xe.. giữa Warsaw
 
-0h đêm, đừng 1 mình cạnh bến xe giữa lòng thành phố.
+trời tối .. lạnh .. gió thổi từng đợt
 
-trời tối .. lạnh .. gió thổi mạnh từng đợt
+giữa những tòa nhà cao tầng .. ko một bóng người .. đèn đường nhấp nháy..
 
-đứng giữa những tòa nhà cao tầng .. nhưng ko một bóng người .. đèn đường vẫn nhấp nháy đổi màu ..
-
-![warsaw]({{ site.url }}/assets/pictures/IMG_6104.JPG){:style="width:420px"}
+![warsaw]({{ site.url }}/assets/pictures/IMG_6104.JPG#center){:style="width:420px"}
 
 mình đợi ở đó .. ngầng đầu lên ngắm mặt trăng
 
