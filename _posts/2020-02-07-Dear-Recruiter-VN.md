@@ -61,6 +61,7 @@ Tua nhanh một tẹo nè
 #### **Oslo, Norway, 8/8/2016**
 {: .right-align}
 ![Sognsvann lake]({{ site.url }}/assets/pictures/IMG_6503.JPG#center){:style="width:420px"}
+
 ![fishing]({{ site.url }}/assets/pictures/IMG_6521.JPG#center)
 -------
 #### **Bangalore & New Delhi, India, 3-4/2017**
