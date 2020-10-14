@@ -47,20 +47,32 @@ Yeap, đó là những thứ mình đã viết, 2016.
 
 Tua nhanh một tẹo nè
 
-#### **Berlin, Đức, 23/7/2016**
+#### **Berlin, Germany, 23/7/2016**
 {: .right-align}
 
-#### 23 tháng 7, 2016. Berlin, Đức.
-#### 8 tháng 8, 2016, Oslo, Na Uy.
+#### **Oslo, Norway, 8/8/2016**
+{: .right-align}
 
-#### Tháng 3, 2017, Bangalore, New Delhi, Ấn Độ.
-#### 18 tháng 9, 2017, Singapore.
-#### tháng 9, 2018, Tokyo, Kagawa, Nhật.
+#### **Bangalore & New Delhi, India, 3-4/2017**
+{: .right-align}
+
+#### **Singapore, 18/9/2017**
+{: .right-align}
+
+#### **Tokyo & Kagawa, Japan, 9-10/2018**
+{: .right-align}
+
 và đến năm vừa rồi, mình đi du học
-#### tháng 9, 2019, Aachen, Đức
-#### tháng 10, 2019, Hà Lan
-cái này hơi xaolol, vì mình qua đó đi chợ thôi :) cơ mà thôi cứ để tạm đó
-#### tháng 12, 2019, Leuven, Brussel, Bỉ
+#### **Aachen, Germany, 9/2019**
+{: .right-align}
+
+#### **Netherlands, 10/2019**
+{: .right-align}
+cái này hơi xaolol, vì mình qua đó đi chợ thôi :) cơ mà cứ để tạm đó nha!!
+
+#### **Leuven & Brussel, Belgium, 12/2019**
+{: .right-align}
+
 
 
 
