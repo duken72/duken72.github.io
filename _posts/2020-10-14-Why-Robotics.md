@@ -43,7 +43,7 @@ but yeah then on a sunny bright day, who would have expected his parents decidin
 
 At later stage, I still find myself drafting mini paper robot designs, folding, gluing, and even later, as I practice with the piano until my fingers are too numb to continue.
 
-![paper robots]({{ site.url }}/assets/robotics/paper_robot.jpg){:style="width:420px"}
+![paper robots]({{ site.url }}/assets/robotics/paper_robot.jpg#center){:style="width:420px"}
 
 The.. love.. I have for art.. is not by social preference, actually against parents hope, as you can see above.
 
