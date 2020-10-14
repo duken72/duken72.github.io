@@ -12,7 +12,7 @@ Bài viết này hoàn toàn khác với bài ở tiếng Anh.. đây không ph�
 
 Cái link.. cũng khá là confused.. khả năng là mọi người nghĩ thật sự đây chỉ là bản dịch, nên cũng không phải ai cũng ấn vào đâu.
 
-Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài chia sẻ này.. khá là đặc biệt đó!! Well, đã đặc biệt, có duyên với nhau như vậy rồi thì cố đọc hết nha ;)
+Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài chia sẻ này.. khá là đặc biệt đó!! Well, đã đặc biệt, **có duyên với nhau như vậy rồi thì cố đọc hết nha** ;)
 
 ### *Chúng ta lại bắt đầu với một câu chuyện mới nào..*
 câu chuyện này.. có thể diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn nha!!
