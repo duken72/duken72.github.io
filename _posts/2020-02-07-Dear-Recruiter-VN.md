@@ -63,11 +63,14 @@ Tua nhanh một tẹo nè
 {: .right-align}
 ![Sognsvann lake]({{ site.url }}/assets/pictures/IMG_6503.JPG#center){:style="width:420px"}
 
-![fishing]({{ site.url }}/assets/pictures/IMG_6521.JPG#center)
+![fishing]({{ site.url }}/assets/pictures/IMG_6521.JPG#center){:style="width:420px"}
 
 -------
 #### **Bangalore & New Delhi, India, 3-4/2017**
 {: .right-align}
+![taj mahal]({{ site.url }}/assets/pictures/_DSC1733.JPG#center){:style="width:420px"}
+
+![mysore palace]({{ site.url }}/assets/pictures/_DSC1849.JPG#center){:style="width:420px"}
 
 -------
 #### **Singapore, 18/9/2017**
