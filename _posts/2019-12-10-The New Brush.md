@@ -5,4 +5,4 @@ categories: [art]
 tags: [drawing]
 ---
 
-![Drawing]({{ site.url }}/assets/drawing/IMG_1684.jpg){:style="width:280px"}
+![Drawing]({{ site.url }}/assets/drawing/IMG_1684.jpg)
