@@ -19,12 +19,13 @@ câu chuyện này.. có thể diễn biến hơi phức tạp, lắt léo một
 
 #### **29/6/2016**
 {: .right-align}
-Đó là lần đầu tiên, mình đi một chuyến thật xa ..
+là lần đầu tiên, mình đi một chuyến thật xa ..
+
+là lần đầu tiên, được ra ngoài
 
 Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, một cái sảnh éo khác gì quảng trường Ba Đình cmnl. Phải mất tầm 20' j đó để mình đến được chỗ đợi tiếp theo.
 
-![qatar airport]({{ site.url }}/assets/pictures/IMG_6054.JPG)
-{:style="width:420px"}
+![qatar airport]({{ site.url }}/assets/pictures/IMG_6054.JPG){:style="width:420px"}{: .image-center}
 
 
 #### **30/6/2016**
