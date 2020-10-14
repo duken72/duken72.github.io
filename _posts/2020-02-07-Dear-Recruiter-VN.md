@@ -17,7 +17,7 @@ Nên là việc.. bạn ở đây, đọc được bài này, câu chuyện, cũ
 ### Chúng ta lại bắt đầu với một câu chuyện nào..
 câu chuyện .. diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn!!
 
-#### **29/6/2016{: .align-right}**
+#### **29/6/2016**{: .right-align}
 Lần đầu tiên, mình đi một chuyến thật xa ra nước ngoài.
 Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, một cái sảnh éo khác gì quảng trường Ba Đình cmnl. Hình như phải mất tầm 20' j đó để mình đến được chỗ đợi tiếp theo.
 
