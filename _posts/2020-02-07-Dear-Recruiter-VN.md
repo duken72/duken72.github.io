@@ -17,6 +17,8 @@ Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có th�
 ### *Chúng ta lại bắt đầu với một câu chuyện mới nào..*
 câu chuyện này.. có thể diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn nha!!
 
+-------
+
 #### **Qatar, 29/6/2016**
 {: .right-align}
 là lần đầu tiên, mình đi một chuyến thật xa ..
@@ -26,6 +28,8 @@ là lần đầu tiên, được ra ngoài
 Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, một cái sảnh éo khác gì quảng trường Ba Đình cmnl. Phải mất tầm 20' j đó để mình đến được chỗ đợi tiếp theo.
 
 ![qatar airport]({{ site.url }}/assets/pictures/IMG_6054.JPG#center){:style="width:420px"}
+
+-------
 
 #### **Warsaw, Balan, 30/6/2016**
 {: .right-align}
@@ -37,6 +41,7 @@ giữa những tòa nhà cao tầng .. ko một bóng người .. đèn đườn
 
 mình đúng đó đợi .. ngầng đầu lên .. ngắm mặt trăng
 ![warsaw]({{ site.url }}/assets/pictures/IMG_6104.JPG#center){:style="width:420px"}
+
 ***"Why the fuck .. am I here??"***
 
 :) có lẽ bắt đầu hơi dramatic 1 tí, cơ mà đến cuối ngày, chuyến đi khá tuyệt, cảm xúc của mình sau khi về, sau khi ổn định tinh thần các thứ .. có thể đọc thêm ở ***[bài này](https://duken72.github.io/2016/poland/)***. Cơ mà để ngắn gọn thì, ..
@@ -45,36 +50,40 @@ Tất cả những thứ đẹp và vui nhất ở ngoài đó, trong khi chúng
 
 Yeap, đó là những thứ mình đã viết, 2016.
 
+-------
+
 Tua nhanh một tẹo nè
 
 #### **Berlin, Germany, 23/7/2016**
 {: .right-align}
 ![Der Berliner Reichstag]({{ site.url }}/assets/pictures/IMG_6393.JPG#center){:style="width:420px"}
-
+-------
 #### **Oslo, Norway, 8/8/2016**
 {: .right-align}
 ![Sognsvann lake]({{ site.url }}/assets/pictures/IMG_6503.JPG#center){:style="width:420px"}
 ![fishing]({{ site.url }}/assets/pictures/IMG_6521.JPG#center)
-
+-------
 #### **Bangalore & New Delhi, India, 3-4/2017**
 {: .right-align}
-
+-------
 #### **Singapore, 18/9/2017**
 {: .right-align}
-
+-------
 #### **Tokyo & Kagawa, Japan, 9-10/2018**
 {: .right-align}
-
+-------
 và đến năm vừa rồi, mình đi du học
 #### **Aachen, Germany, 9/2019**
 {: .right-align}
-
+-------
 #### **Netherlands, 10/2019**
 {: .right-align}
 cái này hơi xaolol, vì mình qua đó đi chợ thôi :) cơ mà cứ để tạm đó nha!!
 
+-------
 #### **Leuven & Brussel, Belgium, 12/2019**
 {: .right-align}
+-------
 
 Cái lần đến Berlin đầu tiên, đi bộ 14km trong 9 tiếng
 
