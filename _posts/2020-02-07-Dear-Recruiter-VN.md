@@ -49,9 +49,12 @@ Tua nhanh một tẹo nè
 
 #### **Berlin, Germany, 23/7/2016**
 {: .right-align}
+![Der Berliner Reichstag]({{ site.url }}/assets/pictures/IMG_6393.JPG#center){:style="width:420px"}
 
 #### **Oslo, Norway, 8/8/2016**
 {: .right-align}
+![Sognsvann lake]({{ site.url }}/assets/pictures/IMG_6503.JPG#center){:style="width:420px"}
+![fishing]({{ site.url }}/assets/pictures/IMG_6521.JPG#center)
 
 #### **Bangalore & New Delhi, India, 3-4/2017**
 {: .right-align}
@@ -73,6 +76,13 @@ cái này hơi xaolol, vì mình qua đó đi chợ thôi :) cơ mà cứ để 
 #### **Leuven & Brussel, Belgium, 12/2019**
 {: .right-align}
 
+Cái lần đến Berlin đầu tiên, đi bộ 14km trong 9 tiếng
+
+Mình chưa bao giờ thấy mỏi chân
+
+Suốt những thời gian này, mình chưa bh, chưa bh một lần cảm thấy nhớ nhà.
+
+Vẫn hay đùa với bạn bè là, đơn giản cái **"tòa nhà"** mình từng ở, nó chưa phải là **"nhà"** của mình.
 
 
 
