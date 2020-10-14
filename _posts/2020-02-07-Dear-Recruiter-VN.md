@@ -80,7 +80,7 @@ Tua nhanh một tẹo nè
 -------
 #### **Tokyo & Kagawa, Japan, 9-10/2018**
 {: .right-align}
-
+![japan]({{ site.url }}/assets/pictures/IMG_8053.jpg#center){:style="width:420px"}
 
 -------
 và đến năm vừa rồi, mình đi du học
