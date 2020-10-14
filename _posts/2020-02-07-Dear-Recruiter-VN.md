@@ -99,9 +99,9 @@ Suốt thời gian này, mình chưa bh, ***chưa bh một lần cảm thấy nh
 và rồi, 2019, mình đi du học
 #### **Aachen, Germany, 9/2019**
 {: .right-align}
-![train]({{ site.url }}/assets/pictures/IMG_0228.pmg#center){:style="width:420px"}
+![train]({{ site.url }}/assets/pictures/IMG_0228.PNG#center){:style="width:420px"}
 
-![flight]({{ site.url }}/assets/pictures/IMG_0229.png#center){:style="width:420px"}
+![flight]({{ site.url }}/assets/pictures/IMG_0229.PNG#center){:style="width:420px"}
 
 ở đây mình vẫn đi, và .. còn dễ có thể đi nhiều nước, nhiều thành phố loanh quanh hơn, ở châu Âu mà .. những chuyến tàu .. những chuyến bay ..
 
@@ -119,9 +119,7 @@ thế giới vẫn rất đẹp, cảnh vật, con người vẫn hoàn hảo th
 
 <iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/DuFHaVJpcr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-yeap, this is the song, đây mới là bài hát của mình
-
-đúng đến từng dòng, từng câu, từng chữ!!
+Yeap!! This is ***The Song***, đây mới là bài hát của mình. Đúng đến từng dòng, từng câu, từng chữ!!
 
 mình biết .. mình rất may mắn, đó, như trong bài hát
 > Another airplane
