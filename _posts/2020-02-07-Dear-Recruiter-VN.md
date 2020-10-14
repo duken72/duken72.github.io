@@ -25,8 +25,7 @@ là lần đầu tiên, được ra ngoài
 
 Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, một cái sảnh éo khác gì quảng trường Ba Đình cmnl. Phải mất tầm 20' j đó để mình đến được chỗ đợi tiếp theo.
 
-![qatar airport]({{ site.url }}/assets/pictures/IMG_6054.JPG){:style="width:420px"}{: .image-center}
-
+![qatar airport]({{ site.url }}/assets/pictures/IMG_6054.JPG#center){:style="width:420px"}
 
 #### **30/6/2016**
 {: .right-align}
