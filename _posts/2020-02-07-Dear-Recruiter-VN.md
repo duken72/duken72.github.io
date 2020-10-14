@@ -152,9 +152,11 @@ Mình học Robotics, và khá là focus vào Computer Visions, Reinforcement Le
 
 Hai mục tiêu tiêu biểu nhất của mình hiện là VinFast và THACO. Mình tôn trọng tầm nhìn cũng như tham vọng của cả hai công ty.
 
-Kết thúc, mình phải nói là, mình rất biết ơn nếu bạn đọc được bài này, đọc hết đến đây, và còn vô cùng biết ơn hơn nữa nếu bạn có thể offer mình vị trí gì đó, hoặc chia sẻ tới những người có thể.
+Mình .. rất mong nếu bạn đọc được bài này, dù có thể offer mình gì hay không, mình vẫn rất muốn biết cảm nhận của bạn thế nào, dòng cảm xúc, suy nghĩ của bạn. Vì thực sự là mình cần và rất muốn cải thiện nó. Nên nếu đọc được email, inbox mình và chia sẻ nha .. PLEASEEEEE!!
 
-À, và mình .. rất mong nếu bạn đọc được bài này, dù có thể offer mình gì hay không, mình vẫn rất muốn biết cảm nhận của bạn thế nào, dòng cảm xúc, suy nghĩ của bạn. Vì thực sự là mình cần và rất muốn cải thiện nó. Nên nếu đọc được email, inbox mình và chia sẻ nha .. PLEASEEEEE!!
+Hiện tại, mình vẫn sẽ để nó ở cái vị trí bí hiểm này. Có thể đến một thời điểm mà mình .. desperate, tuyệt vọng vkl, thì mình sẽ public nó theo kiểu khác.
+
+Kết thúc, mình phải nói là, mình rất biết ơn nếu bạn đọc được bài này, đọc hết đến đây, và còn vô cùng biết ơn hơn nữa nếu bạn có thể offer mình vị trí gì đó, hoặc chia sẻ tới những người có thể.
 
 ##### ***Thân,***
 ##### *Hữu Đức Nguyễn*
