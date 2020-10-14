@@ -37,12 +37,13 @@ giữa những tòa nhà cao tầng .. ko một bóng người .. đèn đườn
 
 ![warsaw]({{ site.url }}/assets/pictures/IMG_6104.JPG#center){:style="width:420px"}
 
-mình đợi ở đó .. ngầng đầu lên ngắm mặt trăng
+mình cứ đúng đó đợi .. ngầng đầu lên .. ngắm mặt trăng
 
-tự hỏi: "Why the fuck am I here??"
+***"Why the fuck .. am I here??"***
 
-:) bắt đầu hơi dramatic 1 tí, cơ mà chuyến đi cuối cùng khá là tuyệt, cảm xúc của mình sau khi về, ổn định tinh thần các thứ .. có thể đọc thêm ở ***[bài này](https://duken72.github.io/2016/poland/)***. Ngắn gọn thì, ..
-> thế giới ở ngoài kia rất là đẹp, một cách ko hoàn hảo. Tất cả những thứ đẹp và vui nhất ở ngoài đó, trong khi chúng ta thường ngồi yên một chỗ ở nhà (ý là Vietnam). Nếu bạn thật sự muốn biết, muốn được nhìn thế giới .. thì chỉ có một điều muốn nói cho bạn biết thôi: có những thứ mà bạn phải TỰ LÀM, những nơi mà bạn phải TỰ ĐẾN.
+:) bắt đầu hơi dramatic 1 tí, cơ mà đến cuối ngày, chuyến đi khá tuyệt, cảm xúc của mình sau khi về, sau khi ổn định tinh thần các thứ .. có thể đọc thêm ở ***[bài này](https://duken72.github.io/2016/poland/)***. Cơ mà để ngắn gọn thì, ..
+> thế giới ở ngoài kia rất là đẹp, một cách ko hoàn hảo.
+Tất cả những thứ đẹp và vui nhất ở ngoài đó, trong khi chúng ta thường ngồi yên một chỗ ở nhà (ý là Vietnam). Nếu bạn thật sự muốn biết, muốn được nhìn thế giới .. thì chỉ có một điều muốn nói với bạn thôi: có những thứ mà bạn phải TỰ LÀM, những nơi mà bạn phải **TỰ ĐẶT CHÂN ĐẾN**.
 
 Yeap, đó là những thứ mình đã viết, 2016.
 
