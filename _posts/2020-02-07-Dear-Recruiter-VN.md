@@ -73,13 +73,14 @@ Tua nhanh một tẹo nè
 ![mysore palace]({{ site.url }}/assets/pictures/DSC1849.JPG#center){:style="width:420px"}
 
 -------
-#### **Singapore, 18/9/2017**
+#### **Singapore, 9-10/2017**
 {: .right-align}
 ![marina bay sands]({{ site.url }}/assets/pictures/DSC4300.jpg#center){:style="width:420px"}
 
 -------
 #### **Tokyo & Kagawa, Japan, 9-10/2018**
 {: .right-align}
+
 
 -------
 và đến năm vừa rồi, mình đi du học
@@ -96,13 +97,9 @@ cái này hơi xaolol, vì mình qua đó đi chợ thôi :) cơ mà cứ để 
 {: .right-align}
 -------
 
-Cái lần đến Berlin đầu tiên, đi bộ 14km trong 9 tiếng
+Suốt thời gian này, mình ***chưa bao giờ thấy mỏi chân***. Kể cả lần đầu đến Berlin, đi bộ 14km trong 9 tiếng.
 
-Mình chưa bao giờ thấy mỏi chân
-
-Suốt những thời gian này, mình chưa bh, chưa bh một lần cảm thấy nhớ nhà.
-
-Vẫn hay đùa với bạn bè là, đơn giản cái **"tòa nhà"** mình từng ở, nó chưa phải là **"nhà"** của mình.
+Suốt thời gian này, mình chưa bh, ***chưa bh một lần cảm thấy nhớ nhà***. Trước vẫn thi thoảng hay đùa với bạn bè là, đơn giản cái **"tòa nhà"** mình từng ở, nó chưa bh là **"nhà"** của mình.
 
 
 
