@@ -21,9 +21,10 @@ câu chuyện này.. có thể diễn biến hơi phức tạp, lắt léo một
 {: .right-align}
 Đó là lần đầu tiên, mình đi một chuyến thật xa ..
 
-Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, một cái sảnh éo khác gì quảng trường Ba Đình cmnl. Hình như phải mất tầm 20' j đó để mình đến được chỗ đợi tiếp theo.
+Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, một cái sảnh éo khác gì quảng trường Ba Đình cmnl. Phải mất tầm 20' j đó để mình đến được chỗ đợi tiếp theo.
 
 #### **30 tháng 6, 2016**
+{: .right-align}
 
 0h đêm, đừng 1 mình cạnh bến xe giữa lòng thành phố.
 
