@@ -5,7 +5,7 @@ categories: [read and write]
 tags: [meh writing]
 ---
 -------
-##### *(tiếng Việt ở dưới - Vietnamese version below)*
+##### *bản dịch tiếng Việt - Vietnamese version*: ***[link](https://duken72.github.io/2020/Dear-Recruiter-VN/)***
 -------
 ##### ***Dear,***
 
@@ -35,7 +35,3 @@ Wish you a great day!!
 
 ##### ***Best regards,***
 ##### *Huu Duc Nguyen*
-
---------------
-##### *(Vietnamese version)*
-Đi đến ***[link](https://duken72.github.io/2020/Dear-Recruiter-VN/)*** này để xem bản dịch.

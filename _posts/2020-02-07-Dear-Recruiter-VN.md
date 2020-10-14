@@ -8,7 +8,7 @@ tags: [meh writing]
 -------
 ##### ***Hi,***
 
-Không có dịch diếc gì ở đây cả, bài viết này khác hoàn toàn với bài ở tiếng Anh..
+Bài viết này hoàn toàn khác với bài ở tiếng Anh.. đây không phải bài dịch
 
 Well, không chỉ là đối tượng khác nhau, mà mục đích cũng khác nhau
 
@@ -19,11 +19,11 @@ Nên là việc.. bạn ở đây, đọc được bài này, câu chuyện, cũ
 ### Chúng ta lại bắt đầu với một câu chuyện nào..
 câu chuyện .. diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn!!
 
-#### 29 tháng 6, 2016
+#### **29/6/2016**
 Lần đầu tiên, mình đi một chuyến thật xa ra nước ngoài.
 Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, một cái sảnh éo khác gì quảng trường Ba Đình cmnl. Hình như phải mất tầm 20' j đó để mình đến được chỗ đợi tiếp theo.
 
-#### 30 tháng 6, 2016
+#### **30 tháng 6, 2016**
 0h đêm, đừng 1 mình cạnh bến xe giữa lòng thành phố
 
 trời tối .. lạnh .. gió thổi mạnh từng đợt

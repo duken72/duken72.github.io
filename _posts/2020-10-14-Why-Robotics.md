@@ -16,7 +16,7 @@ when i was young, as a kid, I felt.. kinda blessed .. to be born as a son of an 
 
 I remember me having these science books for kids, then just running up-and-down the house, sitting on the terrace at noon, with the scorching heat from the sun.. okay that was a bit over-exaggerated.. anywho, with a magnifying glass, i was so excited burning all the dry leaves, and box.. no, boxes of matches
 
-gotta say, those days, i was not so much of an environment-friendly kid.. i enjoyed watching things being burned :)
+Gotta say, those days, i was not so much of an environment-friendly kid.. i enjoyed watching things being burned :)
 
 A strong, yet.. naïve belief, which I used to have, that a kind of mathematics and physics blood running in my vein.. has long been the perfect justification for me, why all the principles and patterns of how the world works always fill my mind with wonders.. and that.. the whole world will soon in the grasp of my tiny hands.
 
@@ -37,7 +37,7 @@ but I don't want to always be just one among the crowd.. a spectator, an audienc
 
 Through all these times, coming out of blindsight, initially as a simple.. distraction.. from daily tensions, it brought me peaceful joy.
 
-There were times I found myself spending days drawing stupid stuffs, folding origami. I used to have a 3-drawer cabinet sitting by my studying desk. One of the drawer was just full of my origami, and it was not like that piece of cake paper crane, no no no, that was child's play, mine was full with.. intricate works my dear friends, i'm talking about mammals, dinosaurs, dragons..
+There were times I found myself spending days drawing stupid stuffs, folding origami. I used to have a 3-drawer cabinet sitting by my studying desk. One of the drawer was just full of my origami, and it was not like that piece of cake paper crane, no no no, that was child's play, mine was full with.. intricate works my dear friends, I'm talking about mammals, dinosaurs, dragons..
 
 but yeah then on a sunny bright day, who would have expected his parents deciding to throw them all away :(
 
