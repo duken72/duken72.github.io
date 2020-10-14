@@ -57,25 +57,31 @@ Tua nhanh một tẹo nè
 #### **Berlin, Germany, 23/7/2016**
 {: .right-align}
 ![Der Berliner Reichstag]({{ site.url }}/assets/pictures/IMG_6393.JPG#center){:style="width:420px"}
+
 -------
 #### **Oslo, Norway, 8/8/2016**
 {: .right-align}
 ![Sognsvann lake]({{ site.url }}/assets/pictures/IMG_6503.JPG#center){:style="width:420px"}
 
 ![fishing]({{ site.url }}/assets/pictures/IMG_6521.JPG#center)
+
 -------
 #### **Bangalore & New Delhi, India, 3-4/2017**
 {: .right-align}
+
 -------
 #### **Singapore, 18/9/2017**
 {: .right-align}
+
 -------
 #### **Tokyo & Kagawa, Japan, 9-10/2018**
 {: .right-align}
+
 -------
 và đến năm vừa rồi, mình đi du học
 #### **Aachen, Germany, 9/2019**
 {: .right-align}
+
 -------
 #### **Netherlands, 10/2019**
 {: .right-align}
