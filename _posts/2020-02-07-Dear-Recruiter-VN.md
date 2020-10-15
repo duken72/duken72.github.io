@@ -132,10 +132,6 @@ mình biết .. mình rất may mắn, không phải ai cũng được đi, lạ
 thế nên mình sẽ ko xl than vãn về chuyện đó :) cơ mà
 > ***I've had my run .. I wanna come home***
 
-> The words were cold and flat.
-And you deserve more, than that
-
-
 thực ra, chắc là nghe xong bài hát là mọi người hiểu hết cảm xúc của mình rồi
 
 -------
