@@ -18,9 +18,9 @@ I'm a master student majoring in Robotic Systems Engineering, at RWTH Aachen Uni
 
 **If you wish to know why have I chosen this fields, my background and motivation for me to decide taking on this path, please go to *[this sharing](https://duken72.github.io/2020/Why-Robotics/)*.**
 
-Don't you know, my personality type is INFJ, I'm not a shy one, but still quite private, not the kind of person who extremely enjoys making brand new connections with others. However, for you to being here, reading this, I appreciate your time and effort getting to know me, and in return, I am too willing to open up myself for sharing.
+Don't you know, my personality type is INFJ, I'm not a shy one, but still quite private, not the kind of person who extremely enjoys making brand new connections with others, getting attention or fame. However, for you being here, reading this, I appreciate your time and effort getting to know me, and in return, I am, too, willing to open up myself, things that I would normally don't feel comfortable or needed to share with others.
 
-For me.. to do this, I hope you could see my **determination**.. and also a bit of desperation to find an internship, and later on, an open job position. This blog is created with a wish for you guys to know me more in person, not just  my CV and transcript.
+For me.. to do this, I hope you could see my **determination**.. and also a bit of desperation to find an internship, and later on, an open job position. This blog is created with a wish for you guys to know me more in person, not just my CV and transcript.
 
 I hope you have a great time here.
 If you have more time, or perhaps out of curiosity, feel free to check other posts, hope you enjoy them.

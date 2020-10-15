@@ -10,9 +10,9 @@ tags: [meh writing]
 
 Bài viết này hoàn toàn khác với bài ở tiếng Anh.. đây không phải bản dịch. Well, không chỉ là vì đối tượng khác nhau, mà mục đích cũng khác nhau.
 
-Cái link.. cũng khá là confused.. khả năng là mọi người nghĩ thật sự đây chỉ là bản dịch, nên cũng không phải ai cũng ấn vào đâu.
+Mình rất mong là các bạn được dẫn đến đây từ ***[tài khoản LinkedIn](https://www.linkedin.com/in/huu-duc-nguyen-689798197/)*** của mình. Nếu chưa, thì mình nghĩ bạn nên qua đó xem qua trước CV, transcript .. để tiết kiệm thời gian.
 
-Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài chia sẻ này.. khá là đặc biệt đó!! Well, đã đặc biệt, **có duyên với nhau như vậy rồi thì cố đọc hết nha** ;)
+Cái link.. cũng khá là confused.. khả năng là mọi người nghĩ thật sự đây chỉ là bản dịch, nên cũng không phải ai cũng ấn vào đâu. Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài chia sẻ này.. khá là đặc biệt đó!! Well, đã đặc biệt, **có duyên với nhau như vậy rồi thì cố đọc hết nha** ;)
 
 ### *Chúng ta lại bắt đầu với một câu chuyện mới nào..*
 câu chuyện này.. có thể diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn nha!!
@@ -78,7 +78,7 @@ Tua nhanh một tẹo nè
 ![marina bay sands]({{ site.url }}/assets/pictures/DSC4300.jpg#center){:style="width:420px"}
 
 -------
-#### **Tokyo & Kagawa, Japan, 9-10/2018**
+#### **Tokyo, Kagawa & Kochi, Japan, 9-10/2018**
 {: .right-align}
 ![japan]({{ site.url }}/assets/pictures/IMG_8053.jpg#center){:style="width:420px"}
 
@@ -90,9 +90,9 @@ chắc mọi người nghe bài "Đi để trờ về" rồi (***[link](https://
 
 Suốt thời gian này, mình ***chưa bao giờ thấy mỏi chân***. Kể cả lần đầu đến Berlin, đi bộ 14km trong 9 tiếng.
 
-Suốt thời gian này, mình chưa bh, ***chưa bh một lần cảm thấy nhớ nhà***. Trước vẫn thi thoảng hay đùa với bạn bè là, đơn giản cái **"tòa nhà"** mình từng ở, nó chưa bh là **"nhà"** của mình.
+Suốt thời gian này, mình chưa bh, ***chưa bh một lần cảm thấy nhớ nhà***. Trước vẫn thi thoảng hay đùa với bạn bè là, đơn giản cái **"tòa nhà"** mình từng ở, nó chưa bh được coi là **"nhà"** của mình.
 
-Điểm tương đồng duy nhất giữa bài hát của Soobin với những chuyến đi trên, là n ngắn :)
+Điểm tương đồng duy nhất giữa bài hát của Soobin với những chuyến đi trên .. là chúng đều ngắn :)
 
 -------
 
@@ -103,17 +103,26 @@ và rồi 2019 .. mình đi du học
 
 ![flight]({{ site.url }}/assets/pictures/IMG_0229.PNG#center){:style="width:420px"}
 
+trước lúc đi, lúc mà còn chưa được trường nhận, giấy tờ còn chưa chốt xong xuôi, mình với đứa bạn thân có đi xem bói tử vi, mình có nhắc tới dự định đi du học, bác ý khẳng định một câu khá đanh thép rằng:
+- m ko có tướng đi du học đâu!
++ cơ mà cháu cũng đã ra nước ngoài khá nhiều lần rồi
+- uh .. uh .. cơ mà đi chơi thôi đúng ko
++ ..
+- đi chơi thôi, chứ đi học thì không đâu
++ ..
+Here I am mtf.
+
 ở đây mình vẫn đi, và .. còn dễ có thể đi nhiều nước, nhiều thành phố loanh quanh hơn, ở châu Âu mà .. những chuyến tàu .. những chuyến bay .. đuổi theo ánh mặt trời ..
 
-mình vẫn thích đi, và những lúc .. cảm thấy cần phải đi, vì bản thân cần đi .. thật xa .. mình vẫn xách túi lên tàu lên xe một mình và đi
+mình vẫn thích đi, và những lúc .. cảm thấy cần phải đi, vì bản thân cần đi .. thật xa .. mình vẫn xách túi lên tàu lên xe một mình .. và đi
 
 những chuyến đi trước .. ngày về được định trước, vé khứ hồi được mua cùng ngày với vé đi, và mình không có mấy vai trò trong việc quyết định chx đó, thậm chí .. phải nói là mình cũng không phải là người trả tiền cho cái vé đó :)
 
-lần này, vé đi ngày về sẽ là do mình quyết và trả tiền
+lần này, vé đi ngày về sẽ là do mình quyết .. mình trả tiền
 
 -------
 
-những thứ mình của 2016 nói vẫn đúng, mình vẫn tin vào những điều đấy
+những thứ mình năm 2016 nói và tin, mình bây giờ vẫn thấy đúng và vẫn tin vào những điều đấy
 
 thế giới vẫn rất đẹp, cảnh vật, con người vẫn hoàn hảo theo cái cách mà nó chưa bao giờ hoàn thiện
 
@@ -127,36 +136,36 @@ Thi thoảng .. bây giờ, đứng trước những công trình đẹp nhất,
 #### Từng dòng, từng câu, từng chữ!!
 
 mình biết .. mình rất may mắn, không phải ai cũng được đi, lại còn được đi nhiều, đó, đúng như trong bài hát
-> Another airplane, Another sunny place, ***I'm lucky, I know*** ..
+> Another aeroplane, Another sunny place, ***I'm lucky, I know*** ..
 
 thế nên mình sẽ ko xl than vãn về chuyện đó :) cơ mà
 > ***I've had my run .. I wanna come home***
 
-thực ra, chắc là nghe xong bài hát là mọi người hiểu hết cảm xúc của mình rồi
+đến con chó .. con mèo .. sáng bỏ nhà bỏ chủ đi chơi .. thì tối nó vẫn tìm đường về nhà được .. còn mình thì ..
+
+ah, bác bói tử vi cũng từng phán rằng mình sau này làm việc .. xa .. xa nhà xa quê. Cơ mà lần này một mình mình cố thôi chắc vẫn chưa đủ .. vẫn cần vài sự hỗ trợ .. không nhiều nhưng cũng không ít
+
+thực ra, nghe xong bài hát là mọi người hiểu hết cảm xúc của mình rồi ..
 
 -------
 
 okay, thôi, dẫn dắt cảm xúc thế là đủ rồi.
 
-Có lẽ đây sẽ là một trong những cái **Plot Twist** lớn nhất của bạn ngày hôm nay, well, mong là vậy, không thì mình cũng hơi buồn.
+Có lẽ đây sẽ là một trong những cái ***Plot Twist*** lớn nhất của bạn ngày hôm nay, well, mong là vậy, không thì mình cũng hơi buồn, vì cũng hơi mất công tính toán rồi sắp xếp.
 
-Tỉnh lại chút đi nha, xem lại tiêu đề của bài
+Tỉnh lại chút đi nha, xem lại tiêu đề của bài. Tâm hồn bay đủ cao rồi, cố hạ chân xuống chạm mắt đất chút nha. Bài này không phải là một bài tâm sự, không phải để chia sẻ cảm xúc, mình không tìm ai cảm thông cũng như thương xót, mình là động vật máu lạnh :) mình không cần những thứ đó.
 
-Bài này không phải là một bài tâm sự, không phải để chia sẻ cảm xúc, mình không tìm ai cảm thông cũng như thương xót, mình là động vật máu lạnh :) mình không cần những thứ đó.
+**Mình muốn về, nhưng không thể về, tự lo cho bản thân và .. nếu không có công việc tử tế.**
 
-Tâm hồn bay đủ cao rồi, cố hạ chân xuống chạm mắt đất chút nha.
-
-Mình muốn về, nhưng không thể về nếu không có việc để làm được, lấy gì để tự lo cho bản thân và ..
-
-Mình học **Robotics**, và khá là focus vào **Computer Visions**, **Reinforcement Learning**, nếu muốn biết liệu mình chỉ là thằng xl, nói thì giỏi và éo làm đc gì, thì có thể check CV, Transcript .. của mình ở LinkedIn.
+Mình học **Robotics**, và khá là focus vào **Computer Visions**, **Reinforcement Learning**, một lần nữa, nếu bạn chưa xem CV, Transcript .. của mình, thì bạn có thể qua xem ở ***[tài khoản LinkedIn](https://www.linkedin.com/in/huu-duc-nguyen-689798197/)*** này.
 
 Hai mục tiêu tiêu biểu nhất của mình hiện là VinFast và THACO. Mình tôn trọng tầm nhìn cũng như tham vọng của cả hai công ty.
 
-Mình .. rất mong nếu bạn đọc được bài này, dù có thể offer mình gì hay không, mình vẫn rất muốn biết cảm nhận của bạn thế nào, dòng cảm xúc, suy nghĩ của bạn. Vì thực sự là mình cần và rất muốn cải thiện nó. Nên nếu đọc được email, inbox mình và chia sẻ nha .. PLEASEEEEE!!
+Mình .. rất mong nếu bạn đọc được bài này, dù có thể offer mình gì hay không, mình vẫn rất muốn biết cảm nhận của bạn thế nào, dòng cảm xúc, suy nghĩ của bạn. Vì thực sự là mình cần và muốn cải thiện nó. Nên nếu đọc được email, inbox mình và chia sẻ nha .. PLEASEEEEE!!
 
-Hiện tại, mình vẫn sẽ để nó ở cái vị trí bí hiểm này. Có thể đến một thời điểm mà mình .. desperate, tuyệt vọng vkl, thì mình sẽ public nó theo kiểu khác.
+Hiện tại, mình vẫn sẽ để nó ở cái vị trí bí hiểm này. Có thể đến một thời điểm mà mình .. desperate, tuyệt vọng vkl hơn nữa, thì mình sẽ public nó theo kiểu khác.
 
-Kết thúc, mình phải nói là, mình rất biết ơn nếu bạn đọc được bài này, đọc hết đến đây, và còn vô cùng biết ơn hơn nữa nếu bạn có thể offer mình vị trí gì đó, hoặc chia sẻ tới những người có thể.
+Kết thúc, mình phải nói là rất biết ơn nếu bạn đọc được bài này, đọc hết đến đây.
 
 ##### ***Thân,***
-##### *Hữu Đức Nguyễn*
+##### *Nguyễn Hữu Đức*
