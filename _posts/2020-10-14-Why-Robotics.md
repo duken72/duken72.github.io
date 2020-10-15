@@ -6,7 +6,9 @@ tags: [meh writing]
 ---
 -------
 #### _This would be the part .. where I'd tell you meh long story_
-_I'll use .. speaking language for god sake ;)  it's a blog anyway, let's not be so dramatic_
+*I'll use .. speaking language for god sake ;)  it's a blog anyway, let's not be so dramatic*
+
+*Pardon me if my line of thought might be a bit unstructured.*
 
 -------
 so.. where should we even begin
