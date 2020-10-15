@@ -85,7 +85,7 @@ Tua nhanh một tẹo nè
 
 mình rất thích việc .. dùng bài hát thay cho những lời muốn nói
 
-chắc mọi người nghe bài "(***[Đi để trờ về](https://www.youtube.com/watch?v=wnSNyE2hVu4&ab_channel=1989sEntertainment)***)" rồi, bài này được nhắc tới .. vì nó .. hoàn toàn ngược lại với cảm xúc của mình :)
+chắc mọi người nghe bài "***[Đi để trờ về](https://www.youtube.com/watch?v=wnSNyE2hVu4&ab_channel=1989sEntertainment)***" rồi, bài này được nhắc tới .. vì nó .. hoàn toàn ngược lại với cảm xúc của mình :)
 
 Suốt thời gian này, mình ***chưa bao giờ thấy mỏi chân***. Kể cả lần đầu đến Berlin, đi bộ 14km trong 9 tiếng.
 
