@@ -48,7 +48,7 @@ mình đúng đó đợi .. ngầng đầu lên .. ngắm mặt trăng
 > thế giới ở ngoài kia rất là đẹp, một cách ko hoàn hảo.
 Tất cả những thứ đẹp và vui nhất ở ngoài đó, trong khi chúng ta thường chỉ ngồi yên một chỗ ở nhà (ý là Vietnam). Nếu bạn thật sự muốn biết, muốn được nhìn thế giới .. thì chỉ có một điều muốn nói với bạn thôi: có những thứ mà bạn phải **TỰ LÀM**, những nơi mà bạn phải **TỰ ĐẶT CHÂN ĐẾN**.
 
-Yeap, đó là những thứ mình đã viết, 2016.
+Yeap, đó là những thứ mình của 2016 đã viết.
 
 -------
 
@@ -86,7 +86,7 @@ Tua nhanh một tẹo nè
 
 mình rất thích việc .. dùng bài hát thay cho những lời muốn nói
 
-chắc mọi người nghe bài "Đi để trờ về" rồi (***[link](https://www.youtube.com/watch?v=wnSNyE2hVu4&ab_channel=1989sEntertainment)***), mình nói tới bài này .. vì nó .. hoàn toàn ngược lại với cảm xúc của mình :)
+chắc mọi người nghe bài "(***[Đi để trờ về](https://www.youtube.com/watch?v=wnSNyE2hVu4&ab_channel=1989sEntertainment)***)" rồi, bài này được nhắc tới .. vì nó .. hoàn toàn ngược lại với cảm xúc của mình :)
 
 Suốt thời gian này, mình ***chưa bao giờ thấy mỏi chân***. Kể cả lần đầu đến Berlin, đi bộ 14km trong 9 tiếng.
 
