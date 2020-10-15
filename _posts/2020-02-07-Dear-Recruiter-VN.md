@@ -51,7 +51,6 @@ Tất cả những thứ đẹp và vui nhất ở ngoài đó, trong khi chúng
 Yeap, đó là những thứ mình của 2016 đã viết.
 
 -------
-
 Tua nhanh một tẹo nè
 
 #### **Berlin, Germany, 23/7/2016**
@@ -105,11 +104,12 @@ và rồi 2019 .. mình đi du học
 
 trước lúc đi, lúc mà còn chưa được trường nhận, giấy tờ còn chưa chốt xong xuôi, mình với đứa bạn thân có đi xem bói tử vi, mình có nhắc tới dự định đi du học, bác ý khẳng định một câu khá đanh thép rằng:
 - m ko có tướng đi du học đâu!
-+ cơ mà cháu cũng đã ra nước ngoài khá nhiều lần rồi
-- uh .. uh .. cơ mà đi chơi thôi đúng ko
++ cơ mà cháu cũng đã ra nước ngoài khá nhiều lần rồi ạ
+- uh .. uh .. cơ mà đi chơi thôi đúng ko??
 + ..
-- đi chơi thôi, chứ đi học thì không đâu
+- đi chơi thôi!! chứ đi học thì không đâu
 + ..
+
 Here I am mtf.
 
 ở đây mình vẫn đi, và .. còn dễ có thể đi nhiều nước, nhiều thành phố loanh quanh hơn, ở châu Âu mà .. những chuyến tàu .. những chuyến bay .. đuổi theo ánh mặt trời ..
@@ -135,17 +135,17 @@ Thi thoảng .. bây giờ, đứng trước những công trình đẹp nhất,
 #### Yeap!! This is ***The Song!!*** Đây, đây mới là bài hát của mình.
 #### Từng dòng, từng câu, từng chữ!!
 
-mình biết .. mình rất may mắn, không phải ai cũng được đi, lại còn được đi nhiều, đó, đúng như trong bài hát
+mình biết .. mình rất may mắn, không phải ai cũng được đi, lại còn được đi nhiều, đó, đúng như lời bài hát
 > Another aeroplane, Another sunny place, ***I'm lucky, I know*** ..
 
-thế nên mình sẽ ko xl than vãn về chuyện đó :) cơ mà
+thế nên mình sẽ ko xl than vãn về chuyện đó :) mình trân trọng, biết ơn, và tận hưởng từng khoảnh khắc đó .. cơ mà
 > ***I've had my run .. I wanna come home***
+
+thực ra, nghe xong bài hát là mọi người hiểu hết cảm xúc của mình rồi ..
 
 đến con chó .. con mèo .. sáng bỏ nhà bỏ chủ đi chơi .. thì tối nó vẫn tìm đường về nhà được .. còn mình thì ..
 
-ah, bác bói tử vi cũng từng phán rằng mình sau này làm việc .. xa .. xa nhà xa quê. Cơ mà lần này một mình mình cố thôi chắc vẫn chưa đủ .. vẫn cần vài sự hỗ trợ .. không nhiều nhưng cũng không ít
-
-thực ra, nghe xong bài hát là mọi người hiểu hết cảm xúc của mình rồi ..
+ah, bác bói tử vi cũng từng phán rằng, mình sau này làm việc .. xa .. xa nhà xa quê. Rồi để xem .. Cơ mà lần này một mình mình cố thôi chắc vẫn chưa đủ .. vẫn cần vài sự hỗ trợ .. không nhiều .. nhưng cũng không ít
 
 -------
 
