@@ -161,8 +161,6 @@ Mình học **Robotics**, và khá là focus vào **Computer Visions**, **Reinfo
 
 Hai mục tiêu tiêu biểu nhất của mình hiện là VinFast và THACO. Mình tôn trọng tầm nhìn cũng như tham vọng của cả hai công ty.
 
-Mình .. rất mong nếu bạn đọc được bài này, dù có thể offer mình gì hay không, mình vẫn rất muốn biết cảm nhận của bạn thế nào, dòng cảm xúc, suy nghĩ của bạn. Vì thực sự là mình cần và muốn cải thiện nó. Nên nếu đọc được email, inbox mình và chia sẻ nha .. PLEASEEEEE!!
-
 Hiện tại, mình vẫn sẽ để nó ở cái vị trí bí hiểm này. Có thể đến một thời điểm mà mình .. desperate, tuyệt vọng vkl hơn nữa, thì mình sẽ public nó theo kiểu khác.
 
 Kết thúc, mình phải nói là rất biết ơn nếu bạn đọc được bài này, đọc hết đến đây.
