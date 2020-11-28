@@ -98,9 +98,7 @@ cái này mình ko chắc lắm rằng n chỉ là đau bụng vài bữa thôi 
 
 -------
 
-####*P/s: nếu bạn đọc thấy .. có ích, và đúng rằng nhiều người chưa biết, thì cứ tự nhiên share nha*
-
-####*P/s 1.4: bản ban đầu mình chửi bậy nhiều vkl*
+#### *P/s: nếu bạn đọc thấy .. có ích, và đúng rằng nhiều người chưa biết, thì cứ tự nhiên share nha*
+#### *P/s 1.4: bản ban đầu mình chửi bậy nhiều vkl*
 chỗ nào bạn thấy @#$ thì n là viết tắt của cụm từ bắt đầu bằng chữ "d" nhé :)
-
-####*P/s 2: @#$ vẫn thèm ăn bún vkl =(*
+#### *P/s 2: @#$ vẫn thèm ăn bún vkl =(*
