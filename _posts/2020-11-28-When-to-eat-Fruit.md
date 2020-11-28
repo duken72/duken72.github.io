@@ -33,7 +33,7 @@ Mình định tìm dẫn chứng khoa học rồi attach vào, để nếu ai xm
 
 Cơ mà, bài viết này rất là đáng tin, vì:
 1. Mình là một chuyên gia ăn uống.
-Có thể bạn không biết, Mozart tập đàn từ năm 3 tuổi. Cơ mà sự nghiệp ăn uống của mình thì đã cất cánh từ ngày t2 chui ra khỏi bụng mẹ. #TrueStory
+Có thể bạn không biết, Mozart tập đàn từ năm 3 tuổi. Cơ mà sự nghiệp ăn uống của mình thì đã cất cánh từ ngày t2 chui ra khỏi bụng mẹ. **#TrueStory**
 2. Mấy kiến thức này .. thực ra không còn là vấn đề gây tranh cãi nữa gì rồi ý. Bạn lên mạng tìm ra chắc phần lớn đều ra những kết quả này thôi. Không tin nữa thì đi gọi bừa một chuyên gia ăn uống nào đó, người ta chắc chắn cũng sẽ khuyên bạn những điều này.
 
 -------
@@ -75,6 +75,8 @@ lấy vd thí nghiệm đơn giản, nếu đứa bạn ghét kiểu .. đang n�
 còn quý ai thì bảo ăn cân bằng một chút giữa tính nóng và hàn. Để cân bằng tính nóng thì bằng cách ăn dưa chuột, dưa bở, nước dừa .. hoặc đơn giản là uống nhiều nước hơn khi loại quả ngọt, thì sẽ giảm nồng độ.
 
 Hình như trẻ em nói chung, và phụ nữ có thai thì nên hạn chế ăn hoa quả nóng .. well .. mình ko chắc lắm, đợi khi nào mình có thai thì mình kể lại nhé :)
+
+P/s: nồng độ đường trong máu .. nghe ngu ngu tn ý nhở .. có lẽ đây là lí do mình cx 6.5 văn luôn
 
 -------
 #### **funny fact**
