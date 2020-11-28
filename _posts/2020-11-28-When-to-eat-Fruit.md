@@ -13,8 +13,8 @@ tags: [meh writing]
 *thế nên bh mình sẽ viết cho mọi ng chx ăn hoa quả lúc nào nhé*
 *P/s: @#$ liên quan vkl nhỉ :)*
 
-*English version below .. maybe*
-*Deutsch version unter?? .. =) vielleicht*
+- *English version below .. maybe*
+- *Deutsch version unter?? .. =) vielleicht*
 
 -------
 well, bắt đầu từ đâu nhỉ ..
