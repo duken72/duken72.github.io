@@ -13,8 +13,8 @@ tags: [meh writing]
 *thế nên bh mình sẽ viết cho mọi ng chx ăn hoa quả lúc nào nhé*
 *P/s: @#$ liên quan vkl nhỉ :)*
 
-*English version below .. maybe*
-*Deutsch version unter?? .. =) vielleicht*
+- *English version below .. maybe*
+- *Deutsch version unter?? .. =) vielleicht*
 
 -------
 well, bắt đầu từ đâu nhỉ ..
@@ -33,7 +33,7 @@ Mình định tìm dẫn chứng khoa học rồi attach vào, để nếu ai xm
 
 Cơ mà, bài viết này rất là đáng tin, vì:
 1. Mình là một chuyên gia ăn uống.
-Có thể bạn không biết, Mozart tập đàn từ năm 3 tuổi. Cơ mà sự nghiệp ăn uống của mình thì đã cất cánh từ ngày t2 chui ra khỏi bụng mẹ. #TrueStory
+Có thể bạn không biết, Mozart tập đàn từ năm 3 tuổi. Cơ mà sự nghiệp ăn uống của mình thì đã cất cánh từ ngày t2 chui ra khỏi bụng mẹ. **#TrueStory**
 2. Mấy kiến thức này .. thực ra không còn là vấn đề gây tranh cãi nữa gì rồi ý. Bạn lên mạng tìm ra chắc phần lớn đều ra những kết quả này thôi. Không tin nữa thì đi gọi bừa một chuyên gia ăn uống nào đó, người ta chắc chắn cũng sẽ khuyên bạn những điều này.
 
 -------
@@ -76,6 +76,8 @@ còn quý ai thì bảo ăn cân bằng một chút giữa tính nóng và hàn.
 
 Hình như trẻ em nói chung, và phụ nữ có thai thì nên hạn chế ăn hoa quả nóng .. well .. mình ko chắc lắm, đợi khi nào mình có thai thì mình kể lại nhé :)
 
+P/s: nồng độ đường trong máu .. nghe ngu ngu tn ý nhở .. có lẽ đây là lí do mình cx 6.5 văn luôn
+
 -------
 #### **funny fact**
 - Táo giảm cholesterol.
@@ -96,9 +98,7 @@ cái này mình ko chắc lắm rằng n chỉ là đau bụng vài bữa thôi 
 
 -------
 
-####*P/s: nếu bạn đọc thấy .. có ích, và đúng rằng nhiều người chưa biết, thì cứ tự nhiên share nha*
-
-####*P/s 1.4: bản ban đầu mình chửi bậy nhiều vkl*
+#### *P/s: nếu bạn đọc thấy .. có ích, và đúng rằng nhiều người chưa biết, thì cứ tự nhiên share nha*
+#### *P/s 1.4: bản ban đầu mình chửi bậy nhiều vkl*
 chỗ nào bạn thấy @#$ thì n là viết tắt của cụm từ bắt đầu bằng chữ "d" nhé :)
-
-####*P/s 2: @#$ vẫn thèm ăn bún vkl =(*
+#### *P/s 2: @#$ vẫn thèm ăn bún vkl =(*
