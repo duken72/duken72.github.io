@@ -15,3 +15,14 @@ từ bao lâu nay, anh ..
 chờ một ai đó đến bên anh
  
 lặng nghe những tâm tư này ..
+
+-------
+P/s: dm thề, hnay mở youtube analytics ra xem thấy mấy video mình up dài hơn 3', mà thời gian trung bình mọi ng xem là tầm 1'
+
+=)) cái dcm các bạn luôn, chán chả muốn nói, đm thà đéo xem còn hơn, mie kiếp xem 1' rồi quit, bố cha bọn m, như thể như video chán vkl quá, hoặc .. đm các bạn ban đầu kỳ vọng rất nhiều, xong xem đc một tí thì tao làm bọn m thất vọng tràn trề ý à :)) cái mie n chứ
+
+bố ghét vkl
+
+mấy năm sau mở analytics ra lần nữa, mà video này có 0 view 0 like thì .. thì ..
+
+thì thôi :)) nghỉ cmn đi
