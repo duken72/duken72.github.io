@@ -5,15 +5,18 @@ categories: [read and write]
 tags: [meh writing]
 ---
 -------
-#### _This would be the part .. where I'd tell you meh long story_
-*I'll use .. speaking language for god sake ;)  it's a blog anyway, let's not be so dramatic*
 
-*Pardon me if my line of thought might be a bit unstructured.*
+#### _This would be the part .. where I'd tell you meh long story_
+
+_I'll use .. speaking language for god sake ;)  it's a blog anyway, let's not be so dramatic_
+
+_Pardon me if my line of thought might be a bit unstructured._
 
 -------
 so.. where should we even begin
 
 #### **let's rewind a bit.. once upon a time..**
+
 when i was young, as a kid, I felt.. kinda blessed .. to be born as a son of an engineer and a lecturer in computer science.
 
 I remember me having these science books for kids, then just running up-and-down the house, sitting on the terrace at noon, with the scorching heat from the sun.. okay that was a bit over-exaggerated.. anywho, with a magnifying glass, i was so excited burning all the dry leaves, and box.. no, boxes of matches
@@ -25,11 +28,14 @@ A strong, yet.. naïve belief, which I used to have, that a kind of mathematics 
 well, with that in mind, addition to the surrounding assistance, I have stayed persistently curious and diligent when it comes to studying mathematics and science subjects.
 
 #### **However.. there is always a however**
+
 Without a forehand warning, reality gradually, but.. unhesitantly  enlightens me with all the limitations, and of course, challenges, from not only within myself, but from the world that I used to view with my ingenuous eyes.
 
 -------
+
 #### On the other hand, **I like Art**
-*okay who doesn't  -.-*
+
+_okay who doesn't  -.-_
 
 to me, almost everything, that is artistic, aesthetic, appeals me immensely. I'd say that I enjoy so many fields of art, not just the basics like drawing, music, photography, dancing, but also architecture, cooking, writing, carving sculpture ..
 
@@ -53,13 +59,17 @@ The.. love.. I have for art.. is not by social preference, actually against pare
 Regardless of the excuses, the more time and effort I spend, not only the better the outcomes, but also the greater the influence they have on me.
 
 This might sounds a bit stupid .. but uhm..
+
 #### Practicing piano teaches me to be more **patient** and **perseverant**
+
 I always have to go from one hand to another, section by section. There were songs that I have to practice in months, half a year.. yet I finished them all.
 
-#### Origami teaches me to be extremely **detail-oriented**.
+#### Origami teaches me to be extremely **detail-oriented**
+
 The mistakes you make on the earlier folds, they will keep stacking up to your shitty final results :)
 
-#### These **traits**, I always bring them to other disciplines.
+#### These **traits**, I always bring them to other disciplines
+
 it's just pretty much the same while you coding, debugging that you need to be patient, systematic, to pay attention to details..
 
 also drawing helps my imagination, 3D perception, but let's just skip that for now
@@ -92,5 +102,7 @@ I strongly believe, **ROBOTICS**, along side **Reinforcement Learning** and **Co
 gotta say .. for you to reach this end ..
 either having some serious patience and determination
 or you're having an absolutely lazy-ass unproductive day my friend, shame on you!!
-#### *still .. thanks for spending your time reading this!!*
-#### *Appreciate.. and respect!!*
+
+#### _still .. thanks for spending your time reading this!!_
+
+#### _Appreciate.. and respect!!_

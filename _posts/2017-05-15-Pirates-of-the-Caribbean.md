@@ -16,4 +16,5 @@ mỏi cả tay, đau cả đàn 🙁
 <iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/y6g2JrPSYG8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Oct 12th 2020
+
 P/S: xem lại thấy respect bản thân vkl :)

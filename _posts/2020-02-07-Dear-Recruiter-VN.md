@@ -1,25 +1,32 @@
 ---
-title:  "Dear VN Recruiters"
+title:  "The Story of My Life"
 date:   2020-02-07 07:27:27
 categories: [read and write]
 tags: [meh writing]
 ---
 
+P/S: April 25th, 2022
+
+Well ... not exactly the story of my life anymore ... Still, at least, at that point of my life.
+
 -------
-##### ***Hi,***
+
+<!-- ##### ***Hi,***
 
 Bài viết này hoàn toàn khác với bài ở tiếng Anh.. đây không phải bản dịch. Well, không chỉ là vì đối tượng khác nhau, mà mục đích cũng khác nhau.
 
 Mình rất mong là các bạn được dẫn đến đây từ ***[tài khoản LinkedIn](https://www.linkedin.com/in/huu-duc-nguyen-689798197/)*** của mình. Nếu chưa, thì mình nghĩ bạn nên qua đó xem qua trước CV, transcript .. để tiết kiệm thời gian.
 
-Cái link.. cũng khá là confused.. khả năng là mọi người nghĩ thật sự đây chỉ là bản dịch, nên cũng không phải ai cũng ấn vào đâu. Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài chia sẻ này.. khá là đặc biệt đó!! Well, đã đặc biệt, **có duyên với nhau như vậy rồi thì cố đọc hết nha** ;)
+Cái link.. cũng khá là confused.. khả năng là mọi người nghĩ thật sự đây chỉ là bản dịch, nên cũng không phải ai cũng ấn vào đâu. Nên là việc.. bạn ở đây, đọc được câu chuyện, cũng có thể coi là bài chia sẻ này.. khá là đặc biệt đó!! Well, đã đặc biệt, **có duyên với nhau như vậy rồi thì cố đọc hết nha** ;) -->
 
 ### *Chúng ta lại bắt đầu với một câu chuyện mới nào..*
+
 câu chuyện này.. có thể diễn biến hơi phức tạp, lắt léo một chút, cơ mà.. cứ đọc đến cuối là sẽ thấy logic vkl thôi :) cảm ơn nha!!
 
 -------
 
 #### **Qatar, 29/6/2016**
+
 {: .right-align}
 là lần đầu tiên, mình đi một chuyến thật xa ..
 
@@ -32,6 +39,7 @@ Trung chuyển ở Qatar, ko biết có ai từng qua đó chưa, to vkl ý, m�
 -------
 
 #### **Warsaw, Balan, 30/6/2016**
+
 {: .right-align}
 12h đêm .. một mình .. đứng cạnh bến xe.. giữa Warsaw
 
@@ -54,30 +62,39 @@ Yeap, đó là những thứ mình của 2016 đã viết.
 Tua nhanh một tẹo nè
 
 #### **Berlin, Germany, 23/7/2016**
+
 {: .right-align}
 ![Der Berliner Reichstag]({{ site.url }}/assets/pictures/IMG_6393.jpg#center){:style="width:420px"}
 
 -------
+
 #### **Oslo, Norway, 8/8/2016**
+
 {: .right-align}
 ![Sognsvann lake]({{ site.url }}/assets/pictures/IMG_6503.JPG#center){:style="width:420px"}
 
 ![fishing]({{ site.url }}/assets/pictures/IMG_6521.JPG#center){:style="width:420px"}
 
 -------
+
 #### **Bangalore & New Delhi, India, 3-4/2017**
+
 {: .right-align}
 ![taj mahal]({{ site.url }}/assets/pictures/DSC1733.jpg#center){:style="width:420px"}
 
 ![mysore palace]({{ site.url }}/assets/pictures/DSC1849.JPG#center){:style="width:420px"}
 
 -------
+
 #### **Singapore, 9-10/2017**
+
 {: .right-align}
 ![marina bay sands]({{ site.url }}/assets/pictures/DSC4300.jpg#center){:style="width:420px"}
 
 -------
+
 #### **Tokyo, Kagawa & Kochi, Japan, 9-10/2018**
+
 {: .right-align}
 ![japan]({{ site.url }}/assets/pictures/IMG_8053.jpg#center){:style="width:420px"}
 
@@ -96,18 +113,26 @@ Suốt thời gian này, mình chưa bh, ***chưa bh một lần cảm thấy nh
 -------
 
 và rồi 2019 .. mình đi du học
+
 #### **Aachen, Germany, 9/2019**
+
 {: .right-align}
 ![train]({{ site.url }}/assets/pictures/IMG_0228.PNG#center){:style="width:420px"}
 
 ![flight]({{ site.url }}/assets/pictures/IMG_0229.PNG#center){:style="width:420px"}
 
 trước lúc đi, lúc mà còn chưa được trường nhận, giấy tờ còn chưa chốt xong xuôi, mình với đứa bạn thân có đi xem bói tử vi, mình có nhắc tới dự định đi du học, bác ý khẳng định một câu khá đanh thép rằng:
+
 - m ko có tướng đi du học đâu!
+
 + cơ mà cháu cũng đã ra nước ngoài khá nhiều lần rồi ạ
+
 - uh .. uh .. cơ mà đi chơi thôi đúng ko??
+
 + ..
+
 - đi chơi thôi!! chứ đi học thì không đâu
+
 + ..
 
 Here I am mtf.
@@ -132,8 +157,9 @@ Thi thoảng .. bây giờ, đứng trước những công trình đẹp nhất,
 
 <iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/DuFHaVJpcr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Yeap!! This is ***The Song!!*** Đây, đây mới là bài hát của mình.
-#### Từng dòng, từng câu, từng chữ!!
+#### Yeap!! This is ***The Song!!*** Đây, đây mới là bài hát của mình
+
+#### Từng dòng, từng câu, từng chữ
 
 mình biết .. mình rất may mắn, không phải ai cũng được đi, lại còn được đi nhiều, đó, đúng như lời bài hát
 > Another aeroplane, Another sunny place, ***I'm lucky, I know*** ..
@@ -149,7 +175,7 @@ ah, bác bói tử vi cũng từng phán rằng, mình sau này làm việc .. x
 
 -------
 
-okay, thôi, dẫn dắt cảm xúc thế là đủ rồi.
+<!-- okay, thôi, dẫn dắt cảm xúc thế là đủ rồi.
 
 Có lẽ đây sẽ là một trong những cái ***Plot Twist*** lớn nhất của bạn ngày hôm nay, well, mong là vậy, không thì mình cũng hơi buồn, vì cũng hơi mất công tính toán rồi sắp xếp.
 
@@ -166,4 +192,5 @@ Hiện tại, mình vẫn sẽ để nó ở cái vị trí bí hiểm này. Có
 Kết thúc, mình phải nói là rất biết ơn nếu bạn đọc được bài này, đọc hết đến đây.
 
 ##### ***Thân,***
-##### *Nguyễn Hữu Đức*
+
+##### *Nguyễn Hữu Đức* -->
