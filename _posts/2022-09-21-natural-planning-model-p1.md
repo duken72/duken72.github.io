@@ -1,7 +1,7 @@
 ---
 title:  "The Natural Planning Model (P1)"
 date:   2022-09-21 9:59:57
-catE.g.ories: [technical]
+categories: [technical]
 tags: [meh writing]
 ---
 -------
