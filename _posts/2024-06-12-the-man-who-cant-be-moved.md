@@ -1,15 +1,9 @@
 ---
-title: The Man Who Can't Be Moved
-date: 2024-12-06T21:11:00.000Z
-categories:
-  - read and write
-tags:
-  - meh writing
+title: "The Man Who Can't Be Moved"
+date: 2024-12-06 21:11:00
+categories: [read and write]
+tags: [meh writing]
 ---
-
----
-
-### Aug 14th 2021 - Sep 1st 2021
 
 <iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/watch?v=gS9o1FAszdk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -40,3 +34,10 @@ And your heart starts to wonder where on this Earth I could be
 Thinking maybe you'll come back here to the place that we'd meet
 
 And you'll see me waiting for you, on the corner of the street
+
+---
+
+People talk about the guy who's waiting on a girl, oh
+
+There are no holes in his shoes, but a big hole in his world, mmm
+
