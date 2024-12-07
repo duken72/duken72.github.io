@@ -5,7 +5,7 @@ categories: [read and write]
 tags: [meh writing]
 ---
 
-<iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/watch?v=gS9o1FAszdk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="overflow:hidden; width:100%; height:405px" src="https://www.youtube.com/embed/gS9o1FAszdk?si=-Ah1E0ZXKwMzGDKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -40,4 +40,3 @@ And you'll see me waiting for you, on the corner of the street
 People talk about the guy who's waiting on a girl, oh
 
 There are no holes in his shoes, but a big hole in his world, mmm
-
