@@ -7,17 +7,19 @@ tags:
   - npa
 ---
 
-I had a really bad day yesterday ...
-
-and you weren't around for me talk with ...
-
-you weren't around to cheer me up ...
-
+I had a really bad day yesterday ... \
+and you weren't around for me talk with ... \
+you weren't around to cheer me up ... \
 I didn't feel like to could or want to talk with you
 
-On one hand, I guessed this is what you might have feel like for a long time. I wasn't around, even if I was around, you didn't feel like talking with me would help, thus you didn't want to.
+On one hand, I guessed this is what you might have feel like for a long time. \
+I wasn't around, even if I was around, you didn't feel like talking with me would help, \
+thus you didn't want to.
 
-Well, I knew that if I really reached out ... you would be there ... But just as a friend. You would be there because you are kind and thoughtful. Perhaps with a bit of guilt or pity. But for sure not as a girlfriend, and not because of love.
+Well, I knew that if I really reached out ... you would be there ... \
+But just as a friend. You would be there because you are kind and thoughtful. \
+Perhaps with a bit of guilt or pity. \
+But for sure not as a girlfriend, and not because of love.
 
 Có ai ở đây không? \
 Tôi trống vắng trong lòng \
