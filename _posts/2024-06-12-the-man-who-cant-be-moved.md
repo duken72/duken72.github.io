@@ -1,5 +1,5 @@
 ---
-title: "#1 NPA - The Man Who Can't Be Moved"
+title: "#1 - The Man Who Can't Be Moved"
 date: "2024-12-06 21:11:00"
 categories:
   - love

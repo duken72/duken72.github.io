@@ -1,5 +1,5 @@
 ---
-title: "#3 NPA - Co ai o day khong?"
+title: "#3 - Co ai o day khong?"
 date: "2024-12-12 06:21"
 categories:
   - love

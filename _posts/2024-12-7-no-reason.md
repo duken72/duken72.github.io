@@ -1,5 +1,5 @@
 ---
-title: "#2 NPA - No reason"
+title: "#2 - No reason"
 date: "2024-12-07 12:23"
 categories:
   - love
