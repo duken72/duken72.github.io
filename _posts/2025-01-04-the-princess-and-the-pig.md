@@ -7,4 +7,6 @@ tags:
   - meh writing
 ---
 
+The story of my life
+
 ![poster?]({{ site.url }}/assets/pictures/the-princess-and-the-pig-3.png#center){:style="width:420px"}
