@@ -9,11 +9,14 @@ tags:
 
 The story of my life
 
+TODO, actually, to tell …
+
 ![poster?]({{ site.url }}/assets/pictures/the-princess-and-the-pig-3.png#center){:style="width:420px"}
+
 ![poster?]({{ site.url }}/assets/pictures/the-princess-and-the-pig-4.png#center){:style="width:420px"}
 
 <iframe
   src="https://www.youtube.com/embed/W-TE_Ys4iwM?si=b2Ps1OJaZwrdn74a"
-  style="overflow:hidden; width:100%; height:405px" frameborder="0"
+  style="overflow:hidden; width:100%; height:270px" frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
