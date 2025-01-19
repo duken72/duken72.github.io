@@ -2,7 +2,7 @@
 title: Dare to love
 date: "2025-01-01 11:42"
 categories:
-  - art
+  - love
 tags:
   - movies
 ---

@@ -3,6 +3,7 @@ title: The Princess and the Pig
 date: "2025-01-04 09:27"
 categories:
   - read and write
+  - love
 tags:
   - meh writing
   - npa

@@ -2,7 +2,7 @@
 title: Selflessness of a stranger
 date: "2024-12-31 08:49"
 categories:
-  - art
+  - love
 tags:
   - movies
 ---
