@@ -156,8 +156,8 @@ The pig, who had endured so much pain that little in life could scar him, found 
 Each drop that fell was like a thousand cuts, carving into his heart.
 
 They stood there in front of the others. \
-One cried, exhausted, and hopeless. \
-One watched, frozen, and clueless.
+One was crying, exhausted, and feeling hopeless. \
+One was watching, frozen, and feeling clueless.
 
 ---
 
@@ -174,7 +174,7 @@ She had fought alongside him, carried him through his darkest days, and held on 
 But she was then exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD2zc9U). Hurt. \
 [Where do you go when love it just ain't enough?](https://youtu.be/iYdVT-ODiKI?si=GNYPQNOx6vYiRC56) \
 Her brave and kind heart, which had once leaped forward to touch him, now made another hard decision. \
-And so, with tears in her eyes, the princess chose to leave.
+With tears in her eyes, the princess chose to leave.
 
 ---
 
