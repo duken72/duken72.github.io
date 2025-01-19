@@ -31,7 +31,7 @@ The little pig did not yet know the answers then, but in his heart, a small embe
 Perhaps one day, he would learn to kindle it into a fire that could warm even the emptiest of spaces.
 The little pig was waiting for the day when the blessings of his parents would bloom brighter than the shadows of their curse.
 
-![the little pig]({{ site.url }}/assets/pictures/pig-stars.png#center){:style="width:270px"}
+![the little pig]({{ site.url }}/assets/the-princess-and-the-pig/pig-stars.png#center){:style="width:270px"}
 
 ---
 
@@ -57,7 +57,7 @@ She dreamed of discovering the unknown, learning lessons beyond the edge of her 
 She whispered to herself, “Perhaps the world is bigger than I can imagine.
 Perhaps there’s a part of me waiting to be found out there.”
 
-![the little princess]({{ site.url }}/assets/pictures/princess-stars.png#center){:style="width:270px"}
+![the little princess]({{ site.url }}/assets/the-princess-and-the-pig/princess-stars.png#center){:style="width:270px"}
 
 Little did they know that their journeys would soon begin, setting them on a path that would change their lives.
 
@@ -85,8 +85,8 @@ Hope felt like a memory from another life.
 The princess’s journey was no gentler.
 Her dreams had shattered like fragile glass, and she wandered blindly through a dark tunnel, uncertain if she would ever see the light again.
 
-![the pig's storms]({{ site.url }}/assets/pictures/pig-storms.png#center){:style="width:270px"}
-![the princess's storms]({{ site.url }}/assets/pictures/princess-storms.png#center){:style="width:270px"}
+![the pig's storms]({{ site.url }}/assets/the-princess-and-the-pig/pig-storms.png#center){:style="width:270px"}
+![the princess's storms]({{ site.url }}/assets/the-princess-and-the-pig/princess-storms.png#center){:style="width:270px"}
 
 ---
 
@@ -100,7 +100,7 @@ On the coldest, darkest of days, when all hope seemed lost, they lifted their we
 To the princess, the pig was the light at the end of her long and dark tunnel.
 [Little did she know](https://youtu.be/SCRapCVtJi0?si=eWG5Ul4HukhV7NOQ), to the pig, she was too [the light of his life](https://youtu.be/HpQcw1JIsO4?si=3EuNzIWnEc2hYiv0).
 
-![the second coincidence]({{ site.url }}/assets/pictures/the-princess-meet-the-pig.png#center){:style="width:720px"}
+![the second coincidence]({{ site.url }}/assets/the-princess-and-the-pig/the-princess-meet-the-pig.png#center){:style="width:720px"}
 
 ---
 
@@ -122,7 +122,7 @@ Her warmth melting the walls he had built around his heart.
 In that very moment, the beast faded away, and the little pig he thought he had lost forever returned.
 And so, the princess and the pig stood together, two hearts mended by the courage to face their scars, and the love that had quietly endured all along.
 
-![the hug]({{ site.url }}/assets/pictures/the-princess-hug-the-pig.png#center){:style="width:720px"}
+![the hug]({{ site.url }}/assets/the-princess-and-the-pig/the-princess-hug-the-pig.png#center){:style="width:720px"}
 
 ---
 
