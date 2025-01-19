@@ -16,15 +16,14 @@ tags:
 Once upon a time, there was a little pig.
 The little pig was blessed and _**cursed**_ by his own parents:
 to inherit their powers, but also their shortcomings.
-
 His parents toiled from sunrise to sunset, working tirelessly to provide him and his sister with food and shelter. Yet, the price for their sacrifice was steep. The warmth of their presence, the sound of their laughter—these were rare treasures in the little pig's life, locked away by the world.
 
 The little pig was not alone.
 Many close friends and kind-hearted relatives surrounded him.
 They welcomed him with open arms, played with him, and showered him with care.
 In their presence, the world felt soft and bright.
-As the sun went down, they would return to their own homes, filled with their own warmth and light.
-And the little pig would find himself back at his house—a house that didn't felt like a home.
+But as the sun went down, they would return to their own homes, filled with their own warmth and light.
+The little pig would find himself back at his house—a house that didn't felt like a home.
 
 At night, as he lay beneath the cold and silent stars, he wondered:
 "What does it take for a house to feel like home?
@@ -89,14 +88,12 @@ Her dreams had shattered like fragile glass, and she wandered blindly through a 
 Neither the pig nor the princess believed they would ever meet again.
 The world was vast, and the chances of another such crossing seemed impossible.
 Yet somehow, against all reasons and odds, they found each other once more.
-
 Was it fate? Perhaps not. For in truth, it was their own doing.
 They defied the entropy of the universe, reaching for one another against the currents of life
 
 On the coldest, darkest of days, when all hope seemed lost, they lifted their weary heads—and there they were, standing before each other once more.
-
 To the princess, the pig was the light at the end of her long and dark tunnel.
-[Little did she know](https://youtu.be/SCRapCVtJi0?si=eWG5Ul4HukhV7NOQ), to the pig, she was [the light of his life](https://youtu.be/HpQcw1JIsO4?si=3EuNzIWnEc2hYiv0).
+[Little did she know](https://youtu.be/SCRapCVtJi0?si=eWG5Ul4HukhV7NOQ), to the pig, she was too [the light of his life](https://youtu.be/HpQcw1JIsO4?si=3EuNzIWnEc2hYiv0).
 
 ---
 
@@ -104,15 +101,18 @@ The little pig was no longer little.
 Time and hardship had turned him into a rugged beast.
 His once-soft skin now scarred and weathered.
 He was no longer the old innocent, adorable pig of his youth.
+But the princess, with her kind and knowing heart, looked past his scars and saw the little pig who had once been.
 
-But the princess, with her kind and knowing heart, looked past his scars and saw the little pig who had once been. \
-She took one step toward him. He roared, warning her to keep her distance. \
-She took another step. He roared louder, his voice trembling with fear and terror. \
+She took one step toward him. \
+He roared, warning her to keep her distance. \
+She took another step. \
+He roared louder, his voice trembling with fear and terror. \
 But the princess was unshaken. \
 With a smile as bright as the dawn, she ran to him, closing the gap between them. \
 She wrapped her arms around him, holding him tightly. \
-Her warmth melting the walls he had built around his heart. \
-In that moment, the beast faded away, and the little pig he thought he had lost forever returned. \
+Her warmth melting the walls he had built around his heart.
+
+In that very moment, the beast faded away, and the little pig he thought he had lost forever returned.
 And so, the princess and the pig stood together, two hearts mended by the courage to face their scars, and the love that had quietly endured all along.
 
 ![poster?]({{ site.url }}/assets/pictures/the-princess-and-the-pig-3.png#center){:style="width:420px"}
@@ -155,53 +155,50 @@ She was crying.
 The pig, who had endured so much pain that little in life could scar him, found himself undone by her tears.
 Each drop that fell was like a thousand cuts, carving into his heart.
 
-They stood there in front of the other.
-One cried, hopeless, and exhausted.
+They stood there in front of the other. \
+One cried, hopeless, and exhausted. \
 The other stood, frozen, and clueless.
 
 ---
 
 The pig remembered one painful truth he had learned on his journey: friends come and go.
 It's sad sometimes, to realize [_"how easy it is in life to part ways with people forever"_](https://letmegooglethat.com/?q=how+easy+it+is+in+life+to+part+ways+with+people+forever).
-People, no matter how deeply they touch our lives, often drift away, just as his parents had, just as so many others had before.
-And now, he saw the same truth unfolding before him once more.
-The pig, still scarred by the lessons of his life, believed they could fight fate.
-He wanted to keep on fighting. He was ready to roar against the world once more.
+People, no matter how deeply they touch our lives, often drift away, just as his parents had, just as so many others had before. \
+And now, he saw the same truth unfolding before him once more. \
+The pig, still scarred by the lessons of his life, believed they could fight fate. \
+He wanted to keep on fighting. \
+He was ready to roar against the world once more.
 
 But she was not. The princess had given everything she had.
 She had fought alongside him, carried him through his darkest days, and held on for as long as she could.
-Her brave and kind heart, which had once leapt forward to touch him, now made another hard decision.
-She was exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD2zc9U). Hurt.
+Her brave and kind heart, which had once leapt forward to touch him, now made another hard decision. \
+She was exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD2zc9U). Hurt. \
 And so, with tears in her eyes, the princess chose to leave.
 
 And so, as the threads of their lives unraveled once again, the pig stood in silence, watching as the princess walked away.
 Her figure grew smaller and smaller, until she disappeared into the distance.
 
 It was a moment he would carry forever, like all the [little wonders](https://youtu.be/q6wZhd8M848?si=wcmVIaEgzVBqPIh-) and fleeting hours that had already started to fade.
-And though the pig would walk forward into a new chapter of his life, he would never forget the princess who had once run toward him with a fearless smile and melted the beast inside.
+And though the pig would walk forward into a new chapter of his life, he would never forget the princess who had once run toward him with a fearless smile and melted the beast inside. \
 For love, though it can wound, always leaves a mark—and hers would stay with him, forever.
 
 ---
 
-## Chapter 4. The Journey to The Unknown
+## Chapter 4. Journey to The Unknown
 
 And so, the princess and the pig set forth on their separate journeys into the vast unknown, seeking the pieces of themselves they had yet to find.
 Their hearts, etched with scars, carried the weight of pain—but also a quiet, fragile hope.
 
-They had given up the fight. \
-Not out of defeat, but out of acceptance. \
-Some battles are not meant to be won. \
-Some threads are meant to unravel.
+They had given up the fight, not out of defeat, but out of acceptance. \
+Some battles are not meant to be won. Some threads are meant to unravel.
 
 No one could say if fate would one day weave their paths together again, returning to them what had been lost.
 The future was as mysterious as the stars above, and the answers lay hidden in the folds of time.
 In the end, all they could do was wait—wait, and trust.
 Trust in the whispers of the wind, the pull of the stars, and the gentle tides of the universe.
-
 Perhaps it was naive to believe the old saying: "When two souls are destined to be together, they will always find their way back to one another."
 
 But belief, no matter how fragile, is often all we have to carry us forward.
-
 And so, beneath a lonely sky painted with endless possibilities, the princess and the pig moved onward—step by step, heart by heart.
 With every step, they carried the faint glimmer of faith, like a flickering lantern in the darkness.
-For what else, in all the world, can one do but hope?
+For what else, in all the world, can one do but to hope and to move forward?
