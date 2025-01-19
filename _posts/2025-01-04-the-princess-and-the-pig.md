@@ -89,7 +89,7 @@ Neither the pig nor the princess believed they would ever meet again.
 The world was vast, and the chances of another such crossing seemed impossible.
 Yet somehow, against all reasons and odds, they found each other once more.
 Was it fate? Perhaps not. For in truth, it was their own doing.
-They defied the entropy of the universe, reaching for one another against the currents of life
+They defied the entropy of the universe, reaching for one another against the currents of life.
 
 On the coldest, darkest of days, when all hope seemed lost, they lifted their weary heads—and there they were, standing before each other once more.
 To the princess, the pig was the light at the end of her long and dark tunnel.
@@ -132,8 +132,8 @@ filling the cracks in his heart with her love.
 
 ---
 
-[When they know they're your heart and you know you are their armor \
-And you will destroy anyone who would try to harm her \
+[When they know they're your heart and you know you are their armor. \
+And you will destroy anyone who would try to harm her. \
 But what happens when karma turns right around to bite you? \
 And everything you stand for turns on you to spite you? \
 What happens when you become the main source of her pain?](https://youtu.be/1wYNFfgrXTI?si=Py6caqLrV_mPTtCb)
@@ -172,7 +172,7 @@ He was ready to roar against the world once more.
 But she was not. The princess had given everything she had.
 She had fought alongside him, carried him through his darkest days, and held on for as long as she could. \
 But she was then exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD2zc9U). Hurt. \
-[Where do you go when love it just ain't enough](https://youtu.be/iYdVT-ODiKI?si=GNYPQNOx6vYiRC56) \
+[Where do you go when love it just ain't enough?](https://youtu.be/iYdVT-ODiKI?si=GNYPQNOx6vYiRC56) \
 Her brave and kind heart, which had once leapt forward to touch him, now made another hard decision. \
 And so, with tears in her eyes, the princess chose to leave.
 
