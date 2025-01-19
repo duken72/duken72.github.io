@@ -128,7 +128,7 @@ Though their paths seemed destined to cross, fate had planted an evil seed deep 
 
 With the princess by his side, the pig felt invincible and got [nothing to fear](https://youtu.be/BZsXcc_tC-o?si=i2Icc5RQ-Q4WNEjq).
 She [raised him up to more than he could be](https://youtu.be/wEpeTyazaKI?si=MLUs67jbBnIRb-4h),
-filling the cracks in his heart with her light.
+filling the cracks in his heart with her love.
 
 ---
 
@@ -156,13 +156,13 @@ The pig, who had endured so much pain that little in life could scar him, found 
 Each drop that fell was like a thousand cuts, carving into his heart.
 
 They stood there in front of the other. \
-One cried, hopeless, and exhausted. \
-The other stood, frozen, and clueless.
+One cried, exhausted, and hopeless. \
+One watched, frozen, and clueless.
 
 ---
 
 The pig remembered one painful truth he had learned on his journey: friends come and go.
-It's sad sometimes, to realize [_"how easy it is in life to part ways with people forever"_](https://letmegooglethat.com/?q=how+easy+it+is+in+life+to+part+ways+with+people+forever).
+It's sad sometimes, to realize [_"how easy it is in life to part ways with people forever"_](https://www.tvfanatic.com/tv-characters-who-rock-the-dance-floor/).
 People, no matter how deeply they touch our lives, often drift away, just as his parents had, just as so many others had before. \
 And now, he saw the same truth unfolding before him once more. \
 The pig, still scarred by the lessons of his life, believed they could fight fate. \
@@ -170,9 +170,9 @@ He wanted to keep on fighting. \
 He was ready to roar against the world once more.
 
 But she was not. The princess had given everything she had.
-She had fought alongside him, carried him through his darkest days, and held on for as long as she could.
+She had fought alongside him, carried him through his darkest days, and held on for as long as she could. \
+But she was then exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD2zc9U). Hurt. \
 Her brave and kind heart, which had once leapt forward to touch him, now made another hard decision. \
-She was exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD2zc9U). Hurt. \
 And so, with tears in her eyes, the princess chose to leave.
 
 ---
@@ -201,4 +201,4 @@ And so, beneath a lonely sky painted with endless possibilities, the princess an
 With every step, they carried the faint glimmer of faith, like a flickering lantern in the darkness.
 For what else, in all the world, can one do but to hope and to move forward?
 
-Which song would they listen to in the end, when they think of each others?
+Which song would they play in the end, when they think of each others?
