@@ -83,12 +83,7 @@ Hope felt like a memory from another life.
 The princess’s journey was no gentler.
 Her dreams had shattered like fragile glass, and she wandered blindly through a dark tunnel, uncertain if she would ever see the light again.
 
-![the princess's storms]({{ site.url }}/assets/the-princess-and-the-pig/princess-storms.png){:style="width:270px"} ![the pig's storms]({{ site.url }}/assets/the-princess-and-the-pig/pig-storms.png){:style="width:270px"}
-
-<p float="center">
-  <img src="/assets/the-princess-and-the-pig/princess-storms.png" width="140" />
-  <img src="/assets/the-princess-and-the-pig/pig-storms.png" width="140" />
-</p>
+![the princess's storms]({{ site.url }}/assets/the-princess-and-the-pig/princess-storms.png){:style="width:350px"} ![the pig's storms]({{ site.url }}/assets/the-princess-and-the-pig/pig-storms.png){:style="width:350px"}
 
 Neither the pig nor the princess believed they would ever meet again.
 The world was vast, and the chances of another such crossing seemed impossible.
