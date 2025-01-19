@@ -172,12 +172,13 @@ He was ready to roar against the world once more.
 But she was not. The princess had given everything she had.
 She had fought alongside him, carried him through his darkest days, and held on for as long as she could. \
 But she was then exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD2zc9U). Hurt. \
+[Where do you go when love it just ain't enough](https://youtu.be/iYdVT-ODiKI?si=GNYPQNOx6vYiRC56) \
 Her brave and kind heart, which had once leapt forward to touch him, now made another hard decision. \
 And so, with tears in her eyes, the princess chose to leave.
 
 ---
 
-## Chapter 4. Journey to The Unknown
+## Chapter 4. The Unknown
 
 And so, as the threads of their lives unraveled once again, the pig stood in silence, [watching as the princess walked away](https://youtu.be/s28-H2pe58Y?si=Wx7BstiONipYkK66).
 Her figure grew smaller and smaller, until she disappeared into the distance.
