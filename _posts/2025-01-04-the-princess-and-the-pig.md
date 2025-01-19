@@ -33,8 +33,6 @@ The little pig was waiting for the day when the blessings of his parents would b
 
 ![the little pig]({{ site.url }}/assets/the-princess-and-the-pig/pig-stars.png#center){:style="width:270px"}
 
----
-
 On another side of the world, an adorable little princess born to a humble yet resilient kingdom.
 Though the land had faced countless floods, storms, and droughts, the kingdom stood strong, led by the wise and compassionate king and queen.
 Despite the challenges, the family never wavered in their love and devotion.
@@ -85,10 +83,7 @@ Hope felt like a memory from another life.
 The princess’s journey was no gentler.
 Her dreams had shattered like fragile glass, and she wandered blindly through a dark tunnel, uncertain if she would ever see the light again.
 
-![the pig's storms]({{ site.url }}/assets/the-princess-and-the-pig/pig-storms.png#center){:style="width:270px"}
-![the princess's storms]({{ site.url }}/assets/the-princess-and-the-pig/princess-storms.png#center){:style="width:270px"}
-
----
+![the princess's storms]({{ site.url }}/assets/the-princess-and-the-pig/princess-storms.png#center){:style="width:270px"} ![the pig's storms]({{ site.url }}/assets/the-princess-and-the-pig/pig-storms.png#center){:style="width:270px"}
 
 Neither the pig nor the princess believed they would ever meet again.
 The world was vast, and the chances of another such crossing seemed impossible.
@@ -101,8 +96,6 @@ To the princess, the pig was the light at the end of her long and dark tunnel.
 [Little did she know](https://youtu.be/SCRapCVtJi0?si=eWG5Ul4HukhV7NOQ), to the pig, she was too [the light of his life](https://youtu.be/HpQcw1JIsO4?si=3EuNzIWnEc2hYiv0).
 
 ![the second coincidence]({{ site.url }}/assets/the-princess-and-the-pig/the-princess-meet-the-pig.png#center){:style="width:720px"}
-
----
 
 The little pig was no longer little.
 Time and hardship had turned him into a rugged beast.
