@@ -38,7 +38,7 @@ Though the land had faced countless floods, storms, and droughts, the kingdom st
 Despite the challenges, the family never wavered in their love and devotion.
 The king and queen worked tirelessly to give their children the best of what they could offer,
 shielding them from the harshness of the world whenever possible.
-They filled the princess’s days with lessons not only of duties but of kindness, resilience, and the beauty of the world even in its imperfections.
+They filled the princess’s days with lessons not only of duty but of kindness, resilience, and the beauty of the world even in its imperfections.
 
 As time passed, the little princess grew under her parents’ careful nurture.
 She blossomed into a young woman of rare grace and strength.
@@ -110,9 +110,9 @@ He roared louder, his voice trembling with fear and terror. \
 But the princess was unshaken. \
 With a smile as bright as the dawn, she ran to him, closing the gap between them. \
 She wrapped her arms around him, holding him tightly. \
-Her warmth melting the walls he had built around his heart.
+Her warmth melted the walls he had built around his heart.
 
-In that very moment, the beast faded away, and the little pig he thought he had lost forever returned.
+At that very moment, the beast faded away, and the little pig he thought he had lost forever returned.
 And so, the princess and the pig stood together, two hearts mended by the courage to face their scars, and the love that had quietly endured all along.
 
 ![the hug]({{ site.url }}/assets/the-princess-and-the-pig/the-princess-hug-the-pig.png#center){:style="width:720px"}
@@ -126,13 +126,13 @@ Though their paths seemed destined to cross, fate had planted an evil seed deep 
 
 ---
 
-With the princess by his side, the pig felt invincible and got [nothing to fear](https://youtu.be/BZsXcc_tC-o?si=i2Icc5RQ-Q4WNEjq).
+With the princess by his side, the pig felt invincible and had [nothing to fear](https://youtu.be/BZsXcc_tC-o?si=i2Icc5RQ-Q4WNEjq).
 She [raised him up to more than he could be](https://youtu.be/wEpeTyazaKI?si=MLUs67jbBnIRb-4h),
 filling the cracks in his heart with her love.
 
 ---
 
-[When they know they're your heart and you know you are their armor. \
+[When they know they're your heart, and you know you are their armor. \
 And you will destroy anyone who would try to harm her. \
 But what happens when karma turns right around to bite you? \
 And everything you stand for turns on you to spite you? \
@@ -143,7 +143,7 @@ He had seen the way people cared for one another, but also how love could wound 
 He had learned bits and pieces about caring for others, but he had never been taught how to receive love, nor how to truly love himself.
 
 In his fight against the world, he didn’t notice when he stopped holding the princess’s hands.
-In his endless roaring at the darkness, he failed to see that he had left her standing in the cold, sad, and lonely.
+In his endless roaring in the darkness, he failed to see that he had left her standing in the cold, sad, and lonely.
 
 The princess, brave as ever, opened her arms and let him into her heart, but he didn’t know how to be gentle.
 Time and time again, without meaning to, he scratched her heart, leaving wounds that she carried in silence.
@@ -155,7 +155,7 @@ She was crying.
 The pig, who had endured so much pain that little in life could scar him, found himself undone by her tears.
 Each drop that fell was like a thousand cuts, carving into his heart.
 
-They stood there in front of the other. \
+They stood there in front of the others. \
 One cried, exhausted, and hopeless. \
 One watched, frozen, and clueless.
 
@@ -173,7 +173,7 @@ But she was not. The princess had given everything she had.
 She had fought alongside him, carried him through his darkest days, and held on for as long as she could. \
 But she was then exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD2zc9U). Hurt. \
 [Where do you go when love it just ain't enough?](https://youtu.be/iYdVT-ODiKI?si=GNYPQNOx6vYiRC56) \
-Her brave and kind heart, which had once leapt forward to touch him, now made another hard decision. \
+Her brave and kind heart, which had once leaped forward to touch him, now made another hard decision. \
 And so, with tears in her eyes, the princess chose to leave.
 
 ---
@@ -202,4 +202,4 @@ And so, beneath a lonely sky painted with endless possibilities, the princess an
 With every step, they carried the faint glimmer of faith, like a flickering lantern in the darkness.
 For what else, in all the world, can one do but to hope and to move forward?
 
-Which song would they play in the end, when they think of each others?
+Which song would they play at the end, when they think of each other?
