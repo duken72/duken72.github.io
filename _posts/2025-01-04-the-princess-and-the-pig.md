@@ -5,6 +5,7 @@ categories:
   - read and write
 tags:
   - meh writing
+  - npa
 ---
 
 **_Spoiler alert:_** no happy ending here.
