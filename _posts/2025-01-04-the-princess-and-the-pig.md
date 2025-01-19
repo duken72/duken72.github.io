@@ -175,22 +175,20 @@ Her brave and kind heart, which had once leapt forward to touch him, now made an
 She was exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD2zc9U). Hurt. \
 And so, with tears in her eyes, the princess chose to leave.
 
-And so, as the threads of their lives unraveled once again, the pig stood in silence, watching as the princess walked away.
-Her figure grew smaller and smaller, until she disappeared into the distance.
-
-It was a moment he would carry forever, like all the [little wonders](https://youtu.be/q6wZhd8M848?si=wcmVIaEgzVBqPIh-) and fleeting hours that had already started to fade.
-And though the pig would walk forward into a new chapter of his life, he would never forget the princess who had once run toward him with a fearless smile and melted the beast inside. \
-For love, though it can wound, always leaves a mark—and hers would stay with him, forever.
-
 ---
 
 ## Chapter 4. Journey to The Unknown
 
-And so, the princess and the pig set forth on their separate journeys into the vast unknown, seeking the pieces of themselves they had yet to find.
+And so, as the threads of their lives unraveled once again, the pig stood in silence, watching as the princess walked away.
+Her figure grew smaller and smaller, until she disappeared into the distance.
+They had given up the fight, not out of defeat, but out of acceptance.
+Some battles are not meant to be won. Some threads are meant to unravel.
+The princess and the pig set forth on their separate journeys into the vast unknown, seeking the pieces of themselves they had yet to find.
 Their hearts, etched with scars, carried the weight of pain—but also a quiet, fragile hope.
 
-They had given up the fight, not out of defeat, but out of acceptance. \
-Some battles are not meant to be won. Some threads are meant to unravel.
+It was a moment he would carry forever, like all the [little wonders](https://youtu.be/q6wZhd8M848?si=wcmVIaEgzVBqPIh-) and fleeting hours that had already started to fade.
+And though the pig would walk forward into a new chapter of his life, he would never forget the princess who had once run toward him with a fearless smile and melted the beast inside.
+For love, though it can wound, always leaves a mark—and hers would stay with him, forever.
 
 No one could say if fate would one day weave their paths together again, returning to them what had been lost.
 The future was as mysterious as the stars above, and the answers lay hidden in the folds of time.
