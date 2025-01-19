@@ -179,12 +179,12 @@ And so, with tears in her eyes, the princess chose to leave.
 
 ## Chapter 4. Journey to The Unknown
 
-And so, as the threads of their lives unraveled once again, the pig stood in silence, watching as the princess walked away.
+And so, as the threads of their lives unraveled once again, the pig stood in silence, [watching as the princess walked away](https://youtu.be/s28-H2pe58Y?si=Wx7BstiONipYkK66).
 Her figure grew smaller and smaller, until she disappeared into the distance.
 They had given up the fight, not out of defeat, but out of acceptance.
 Some battles are not meant to be won. Some threads are meant to unravel.
 The princess and the pig set forth on their separate journeys into the vast unknown, seeking the pieces of themselves they had yet to find.
-Their hearts, etched with scars, carried the weight of pain—but also a quiet, fragile hope.
+Their [lonely](https://youtu.be/XBMawS-CGgE?si=8Iq76kOnTzhzjOOt) hearts, etched with scars, carried the weight of pain—but also a quiet, fragile hope.
 
 It was a moment he would carry forever, like all the [little wonders](https://youtu.be/q6wZhd8M848?si=wcmVIaEgzVBqPIh-) and fleeting hours that had already started to fade.
 And though the pig would walk forward into a new chapter of his life, he would never forget the princess who had once run toward him with a fearless smile and melted the beast inside.
@@ -200,3 +200,5 @@ But belief, no matter how fragile, is often all we have to carry us forward.
 And so, beneath a lonely sky painted with endless possibilities, the princess and the pig moved onward—step by step, heart by heart.
 With every step, they carried the faint glimmer of faith, like a flickering lantern in the darkness.
 For what else, in all the world, can one do but to hope and to move forward?
+
+Which song would they listen to in the end, when they think of each others?
