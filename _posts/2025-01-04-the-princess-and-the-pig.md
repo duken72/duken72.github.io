@@ -72,6 +72,8 @@ Their hearts, though heavy with scars, found something in each other that was wa
 That day, as if by enchantment, time stood still, and even the rain, weary of its endless fall, paused to watch.
 For a moment, the burdens of life lifted, and they felt whole.
 
+![the first coincidence]({{ site.url }}/assets/the-princess-and-the-pig/the-princess-meet-the-pig.png#center){:style="width:720px"}
+
 However, their time together was fleeting.
 The threads of their lives unraveled as quickly as they had tangled.
 One was ready, the other was not.
@@ -97,7 +99,7 @@ On the coldest, darkest of days, when all hope seemed lost, they lifted their we
 To the princess, the pig was the light at the end of her long and dark tunnel.
 [Little did she know](https://youtu.be/SCRapCVtJi0?si=eWG5Ul4HukhV7NOQ), to the pig, she was too [the light of his life](https://youtu.be/HpQcw1JIsO4?si=3EuNzIWnEc2hYiv0).
 
-![the second coincidence]({{ site.url }}/assets/the-princess-and-the-pig/the-princess-meet-the-pig.png#center){:style="width:720px"}
+![the second coincidence]({{ site.url }}/assets/the-princess-and-the-pig/princess-boar.png#center){:style="width:720px"}
 
 The little pig was no longer little.
 Time and hardship had turned him into a rugged beast.
