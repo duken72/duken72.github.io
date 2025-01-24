@@ -180,6 +180,8 @@ But she was then exhausted. [Lonely](https://youtu.be/NbF1vhBppKQ?si=TIVcq8uLMkD
 Her brave and kind heart, which had once leaped forward to touch him, now made another hard decision. \
 With tears in her eyes, the princess chose to leave.
 
+![the break]({{ site.url }}/assets/the-princess-and-the-pig/the-princess-run-away.png#center){:style="width:720px"}
+
 ---
 
 ## Chapter 4. The Unknown
