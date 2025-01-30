@@ -121,6 +121,10 @@ And so, the princess and the pig stood together, two hearts mended by the courag
 
 ![the hug]({{ site.url }}/assets/the-princess-and-the-pig/the-princess-hug-the-pig.png#center){:style="width:720px"}
 
+With the princess by his side, the pig felt invincible and had [nothing to fear](https://youtu.be/BZsXcc_tC-o?si=i2Icc5RQ-Q4WNEjq).
+She [raised him up to more than he could be](https://youtu.be/wEpeTyazaKI?si=MLUs67jbBnIRb-4h),
+filling the cracks in his heart with her love.
+
 ---
 
 ## Chapter 3. The Tragic Irony
@@ -128,19 +132,13 @@ And so, the princess and the pig stood together, two hearts mended by the courag
 From the very beginning, their tale was touched by a cruel irony, the kind that only fate can weave.
 Though their paths seemed destined to cross, fate had planted an evil seed deep within the soil of their story—one that would grow into pain.
 
----
-
-With the princess by his side, the pig felt invincible and had [nothing to fear](https://youtu.be/BZsXcc_tC-o?si=i2Icc5RQ-Q4WNEjq).
-She [raised him up to more than he could be](https://youtu.be/wEpeTyazaKI?si=MLUs67jbBnIRb-4h),
-filling the cracks in his heart with her love.
-
----
-
 [When they know they're your heart, and you know you are their armor. \
 And you will destroy anyone who would try to harm her. \
 But what happens when karma turns right around to bite you? \
 And everything you stand for turns on you to spite you? \
 What happens when you become the main source of her pain?](https://youtu.be/1wYNFfgrXTI?si=Py6caqLrV_mPTtCb)
+
+---
 
 The pig, who had spent his life observing love from the outside, never truly learned how to hold it in his hands.
 He had seen the way people cared for one another, but also how love could wound and unravel.
