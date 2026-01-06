@@ -23,5 +23,7 @@ I don't know son. I don't know.
 
 But why dad?
 
-AAAAAAAAAAAAAAAAAaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHAHAH.\\
+AAAAAAAAAAAAAAAAAaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHAHAH.\
 To appease the duck gods.
+
+Ref: <https://youtube.com/shorts/Sni7G5IXU30?si=s00au9GE_IIkXs3C>
